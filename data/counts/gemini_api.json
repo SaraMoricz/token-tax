@@ -1,0 +1,1634 @@
+{
+ "ace_Arab": {
+  "gemini4_argon": 66107,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 61873,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ace_Latn": {
+  "gemini4_argon": 50028,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 50166,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "acm_Arab": {
+  "gemini4_argon": 40219,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40591,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "acq_Arab": {
+  "gemini4_argon": 40411,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40777,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "aeb_Arab": {
+  "gemini4_argon": 41054,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41186,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "afr_Latn": {
+  "gemini4_argon": 41957,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42234,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ajp_Arab": {
+  "gemini4_argon": 38663,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38753,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "aka_Latn": {
+  "gemini4_argon": 61172,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 60742,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "als_Latn": {
+  "gemini4_argon": 51599,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53899,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "amh_Ethi": {
+  "gemini4_argon": 70664,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53563,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "apc_Arab": {
+  "gemini4_argon": 39114,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39316,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "arb_Arab": {
+  "gemini4_argon": 40281,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40896,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "arb_Latn": {
+  "gemini4_argon": 63784,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63687,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ars_Arab": {
+  "gemini4_argon": 40417,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41024,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ary_Arab": {
+  "gemini4_argon": 42527,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42298,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "arz_Arab": {
+  "gemini4_argon": 40221,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40000,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "asm_Beng": {
+  "gemini4_argon": 59429,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55396,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ast_Latn": {
+  "gemini4_argon": 39672,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39851,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "awa_Deva": {
+  "gemini4_argon": 44451,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40847,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ayr_Latn": {
+  "gemini4_argon": 55380,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55090,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "azb_Arab": {
+  "gemini4_argon": 50520,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49104,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "azj_Latn": {
+  "gemini4_argon": 54174,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55935,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bak_Cyrl": {
+  "gemini4_argon": 69462,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63776,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bam_Latn": {
+  "gemini4_argon": 57813,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 57521,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ban_Latn": {
+  "gemini4_argon": 42826,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43310,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bel_Cyrl": {
+  "gemini4_argon": 63329,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 59720,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bem_Latn": {
+  "gemini4_argon": 56346,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55897,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ben_Beng": {
+  "gemini4_argon": 42097,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 33847,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bho_Deva": {
+  "gemini4_argon": 47373,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43729,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bjn_Arab": {
+  "gemini4_argon": 64291,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 61935,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bjn_Latn": {
+  "gemini4_argon": 39012,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39321,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bod_Tibt": {
+  "gemini4_argon": 126440,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 100687,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bos_Latn": {
+  "gemini4_argon": 40451,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41357,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bug_Latn": {
+  "gemini4_argon": 48732,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 48672,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "bul_Cyrl": {
+  "gemini4_argon": 44627,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 44934,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "cat_Latn": {
+  "gemini4_argon": 42850,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42872,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ceb_Latn": {
+  "gemini4_argon": 49651,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 48992,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ces_Latn": {
+  "gemini4_argon": 41444,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42370,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "cjk_Latn": {
+  "gemini4_argon": 49167,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49016,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ckb_Arab": {
+  "gemini4_argon": 69029,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 62527,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "crh_Latn": {
+  "gemini4_argon": 48256,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 48653,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "cym_Latn": {
+  "gemini4_argon": 56410,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 54700,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "dan_Latn": {
+  "gemini4_argon": 39795,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40123,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "deu_Latn": {
+  "gemini4_argon": 36538,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 37031,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "dik_Latn": {
+  "gemini4_argon": 51861,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51994,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "dyu_Latn": {
+  "gemini4_argon": 51524,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51137,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "dzo_Tibt": {
+  "gemini4_argon": 141008,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 115134,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ell_Grek": {
+  "gemini4_argon": 59180,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 60341,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "eng_Latn": {
+  "gemini4_argon": 28071,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 28125,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "epo_Latn": {
+  "gemini4_argon": 44840,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43399,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "est_Latn": {
+  "gemini4_argon": 44582,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43719,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "eus_Latn": {
+  "gemini4_argon": 47860,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46511,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ewe_Latn": {
+  "gemini4_argon": 61745,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 60301,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fao_Latn": {
+  "gemini4_argon": 50739,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51505,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fij_Latn": {
+  "gemini4_argon": 54349,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53357,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fin_Latn": {
+  "gemini4_argon": 45185,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46201,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fon_Latn": {
+  "gemini4_argon": 78739,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 72820,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fra_Latn": {
+  "gemini4_argon": 39831,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39290,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fur_Latn": {
+  "gemini4_argon": 47461,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 47342,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "fuv_Latn": {
+  "gemini4_argon": 46111,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 45711,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "gaz_Latn": {
+  "gemini4_argon": 59145,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 58644,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "gla_Latn": {
+  "gemini4_argon": 63236,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 60637,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "gle_Latn": {
+  "gemini4_argon": 59165,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 57111,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "glg_Latn": {
+  "gemini4_argon": 37249,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 37723,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "grn_Latn": {
+  "gemini4_argon": 53230,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53514,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "guj_Gujr": {
+  "gemini4_argon": 57538,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51454,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hat_Latn": {
+  "gemini4_argon": 42710,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42585,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hau_Latn": {
+  "gemini4_argon": 48640,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 47900,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "heb_Hebr": {
+  "gemini4_argon": 45902,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 48006,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hin_Deva": {
+  "gemini4_argon": 40365,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 36548,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hne_Deva": {
+  "gemini4_argon": 45026,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41371,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hrv_Latn": {
+  "gemini4_argon": 40358,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41223,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hun_Latn": {
+  "gemini4_argon": 46457,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46562,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "hye_Armn": {
+  "gemini4_argon": 75122,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 78027,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ibo_Latn": {
+  "gemini4_argon": 62133,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 59759,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ilo_Latn": {
+  "gemini4_argon": 51781,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51439,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ind_Latn": {
+  "gemini4_argon": 31297,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 32291,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "isl_Latn": {
+  "gemini4_argon": 49536,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51436,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ita_Latn": {
+  "gemini4_argon": 37978,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38324,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "jav_Latn": {
+  "gemini4_argon": 41377,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41053,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "jpn_Jpan": {
+  "gemini4_argon": 31691,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 33908,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kab_Latn": {
+  "gemini4_argon": 57519,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 57422,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kac_Latn": {
+  "gemini4_argon": 60664,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 58969,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kam_Latn": {
+  "gemini4_argon": 52022,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51411,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kan_Knda": {
+  "gemini4_argon": 61600,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53262,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kas_Arab": {
+  "gemini4_argon": 66303,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 64963,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kas_Deva": {
+  "gemini4_argon": 58135,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53586,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kat_Geor": {
+  "gemini4_argon": 75101,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63231,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kaz_Cyrl": {
+  "gemini4_argon": 58908,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 56274,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kbp_Latn": {
+  "gemini4_argon": 91159,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 87727,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kea_Latn": {
+  "gemini4_argon": 43184,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43478,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "khk_Cyrl": {
+  "gemini4_argon": 63810,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 64069,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "khm_Khmr": {
+  "gemini4_argon": 97020,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 75137,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kik_Latn": {
+  "gemini4_argon": 70597,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 69482,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kin_Latn": {
+  "gemini4_argon": 55000,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 54330,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kir_Cyrl": {
+  "gemini4_argon": 58969,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53676,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kmb_Latn": {
+  "gemini4_argon": 52738,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52083,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kmr_Latn": {
+  "gemini4_argon": 55929,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 54483,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "knc_Arab": {
+  "gemini4_argon": 67439,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 66848,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "knc_Latn": {
+  "gemini4_argon": 55676,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55316,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kon_Latn": {
+  "gemini4_argon": 50610,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 50855,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "kor_Hang": {
+  "gemini4_argon": 35381,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38279,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lao_Laoo": {
+  "gemini4_argon": 94424,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 72040,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lij_Latn": {
+  "gemini4_argon": 51806,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51879,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lim_Latn": {
+  "gemini4_argon": 45899,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46022,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lin_Latn": {
+  "gemini4_argon": 48938,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 47773,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lit_Latn": {
+  "gemini4_argon": 46318,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46371,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lmo_Latn": {
+  "gemini4_argon": 52330,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52624,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ltg_Latn": {
+  "gemini4_argon": 52294,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52514,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ltz_Latn": {
+  "gemini4_argon": 50104,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 50163,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lua_Latn": {
+  "gemini4_argon": 49381,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 48311,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lug_Latn": {
+  "gemini4_argon": 50551,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 50459,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "luo_Latn": {
+  "gemini4_argon": 47686,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 47539,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lus_Latn": {
+  "gemini4_argon": 50673,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49947,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "lvs_Latn": {
+  "gemini4_argon": 51341,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52125,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mag_Deva": {
+  "gemini4_argon": 45270,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41064,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mai_Deva": {
+  "gemini4_argon": 49466,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 45457,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mal_Mlym": {
+  "gemini4_argon": 56981,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51124,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mar_Deva": {
+  "gemini4_argon": 43918,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39027,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "min_Arab": {
+  "gemini4_argon": 67332,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 64947,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "min_Latn": {
+  "gemini4_argon": 42687,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43054,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mkd_Cyrl": {
+  "gemini4_argon": 48117,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49318,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mlt_Latn": {
+  "gemini4_argon": 58634,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 59734,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mni_Beng": {
+  "gemini4_argon": 78379,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 69068,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mos_Latn": {
+  "gemini4_argon": 54901,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55122,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mri_Latn": {
+  "gemini4_argon": 58531,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 56398,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "mya_Mymr": {
+  "gemini4_argon": 88588,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 66306,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nld_Latn": {
+  "gemini4_argon": 38010,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38520,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nno_Latn": {
+  "gemini4_argon": 40429,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41036,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nob_Latn": {
+  "gemini4_argon": 38512,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38905,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "npi_Deva": {
+  "gemini4_argon": 42266,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42460,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nso_Latn": {
+  "gemini4_argon": 55277,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55023,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nus_Latn": {
+  "gemini4_argon": 81718,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 80670,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "nya_Latn": {
+  "gemini4_argon": 51840,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51571,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "oci_Latn": {
+  "gemini4_argon": 46701,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 46546,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ory_Orya": {
+  "gemini4_argon": 68353,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 96210,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pag_Latn": {
+  "gemini4_argon": 40484,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40333,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pan_Guru": {
+  "gemini4_argon": 65984,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 74056,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pap_Latn": {
+  "gemini4_argon": 44416,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 44320,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pbt_Arab": {
+  "gemini4_argon": 55977,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51004,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pes_Arab": {
+  "gemini4_argon": 40033,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40515,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "plt_Latn": {
+  "gemini4_argon": 57668,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 56918,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "pol_Latn": {
+  "gemini4_argon": 39922,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41863,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "por_Latn": {
+  "gemini4_argon": 34577,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 35103,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "prs_Arab": {
+  "gemini4_argon": 39594,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 39720,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "quy_Latn": {
+  "gemini4_argon": 50972,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51188,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ron_Latn": {
+  "gemini4_argon": 43319,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43747,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "run_Latn": {
+  "gemini4_argon": 54937,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 54569,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "rus_Cyrl": {
+  "gemini4_argon": 37626,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38034,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sag_Latn": {
+  "gemini4_argon": 52105,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51678,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "san_Deva": {
+  "gemini4_argon": 51018,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49104,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sat_Olck": {
+  "gemini4_argon": 140480,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 143399,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "scn_Latn": {
+  "gemini4_argon": 50241,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49839,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "shn_Mymr": {
+  "gemini4_argon": 158191,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 140320,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sin_Sinh": {
+  "gemini4_argon": 88539,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63077,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "slk_Latn": {
+  "gemini4_argon": 43679,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 44844,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "slv_Latn": {
+  "gemini4_argon": 42861,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 43553,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "smo_Latn": {
+  "gemini4_argon": 59171,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 58981,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sna_Latn": {
+  "gemini4_argon": 52654,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 51807,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "snd_Arab": {
+  "gemini4_argon": 60508,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55927,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "som_Latn": {
+  "gemini4_argon": 54114,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53385,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sot_Latn": {
+  "gemini4_argon": 57131,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55577,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "spa_Latn": {
+  "gemini4_argon": 35938,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 36178,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "srd_Latn": {
+  "gemini4_argon": 50237,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49930,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "srp_Cyrl": {
+  "gemini4_argon": 48324,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 47945,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ssw_Latn": {
+  "gemini4_argon": 54438,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53631,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "sun_Latn": {
+  "gemini4_argon": 42438,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 41777,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "swe_Latn": {
+  "gemini4_argon": 37570,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38314,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "swh_Latn": {
+  "gemini4_argon": 46503,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 45446,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "szl_Latn": {
+  "gemini4_argon": 51935,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52162,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tam_Taml": {
+  "gemini4_argon": 49337,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 40841,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "taq_Latn": {
+  "gemini4_argon": 52916,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52463,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "taq_Tfng": {
+  "gemini4_argon": 131776,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 141410,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tat_Cyrl": {
+  "gemini4_argon": 62300,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 55165,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tel_Telu": {
+  "gemini4_argon": 52034,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49175,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tgk_Cyrl": {
+  "gemini4_argon": 65490,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63244,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tgl_Latn": {
+  "gemini4_argon": 51335,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 50562,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tha_Thai": {
+  "gemini4_argon": 42367,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 44657,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tir_Ethi": {
+  "gemini4_argon": 82491,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 68143,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tpi_Latn": {
+  "gemini4_argon": 53224,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53064,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tsn_Latn": {
+  "gemini4_argon": 58751,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 57619,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tso_Latn": {
+  "gemini4_argon": 58064,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 57658,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tuk_Latn": {
+  "gemini4_argon": 56956,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 56854,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tum_Latn": {
+  "gemini4_argon": 63930,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 63296,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tur_Latn": {
+  "gemini4_argon": 37446,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38170,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "twi_Latn": {
+  "gemini4_argon": 57593,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 53763,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "tzm_Tfng": {
+  "gemini4_argon": 121206,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 121889,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "uig_Arab": {
+  "gemini4_argon": 89400,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 79431,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ukr_Cyrl": {
+  "gemini4_argon": 44513,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 44669,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "umb_Latn": {
+  "gemini4_argon": 51996,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52056,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "urd_Arab": {
+  "gemini4_argon": 45873,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42175,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "uzn_Latn": {
+  "gemini4_argon": 53755,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52715,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "vec_Latn": {
+  "gemini4_argon": 42561,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 42992,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "vie_Latn": {
+  "gemini4_argon": 37791,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 38200,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "war_Latn": {
+  "gemini4_argon": 50556,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49494,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "wol_Latn": {
+  "gemini4_argon": 48929,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 49125,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "xho_Latn": {
+  "gemini4_argon": 52918,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 52217,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "ydd_Hebr": {
+  "gemini4_argon": 78340,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 72718,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "yor_Latn": {
+  "gemini4_argon": 68053,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 66244,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "yue_Hant": {
+  "gemini4_argon": 29385,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 30464,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "zho_Hans": {
+  "gemini4_argon": 29034,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 30254,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "zho_Hant": {
+  "gemini4_argon": 30274,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 31471,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "zsm_Latn": {
+  "gemini4_argon": 33317,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 33978,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ },
+ "zul_Latn": {
+  "gemini4_argon": 56153,
+  "gemini4_argon_model": "gemini-4-argon",
+  "gemini4_argon_overhead": 30,
+  "gemini38_flash": 54569,
+  "gemini38_flash_model": "gemini-3.8-flash",
+  "gemini38_flash_overhead": 1
+ }
+}

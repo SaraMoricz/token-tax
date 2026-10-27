@@ -1,0 +1,1226 @@
+{
+ "ace_Arab": {
+  "claude": 102622,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ace_Latn": {
+  "claude": 76080,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "acm_Arab": {
+  "claude": 76469,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "acq_Arab": {
+  "claude": 77450,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "aeb_Arab": {
+  "claude": 74702,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "afr_Latn": {
+  "claude": 65141,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ajp_Arab": {
+  "claude": 73098,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "aka_Latn": {
+  "claude": 98178,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "als_Latn": {
+  "claude": 75361,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "amh_Ethi": {
+  "claude": 113539,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "apc_Arab": {
+  "claude": 72840,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "arb_Arab": {
+  "claude": 77813,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "arb_Latn": {
+  "claude": 89977,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ars_Arab": {
+  "claude": 77971,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ary_Arab": {
+  "claude": 76626,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "arz_Arab": {
+  "claude": 75742,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "asm_Beng": {
+  "claude": 136628,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ast_Latn": {
+  "claude": 60009,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "awa_Deva": {
+  "claude": 94887,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ayr_Latn": {
+  "claude": 80279,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "azb_Arab": {
+  "claude": 84173,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "azj_Latn": {
+  "claude": 82223,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bak_Cyrl": {
+  "claude": 86539,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bam_Latn": {
+  "claude": 89773,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ban_Latn": {
+  "claude": 69901,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bel_Cyrl": {
+  "claude": 80161,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bem_Latn": {
+  "claude": 87361,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ben_Beng": {
+  "claude": 114778,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bho_Deva": {
+  "claude": 93949,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bjn_Arab": {
+  "claude": 101446,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bjn_Latn": {
+  "claude": 68946,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bod_Tibt": {
+  "claude": 198408,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bos_Latn": {
+  "claude": 63216,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bug_Latn": {
+  "claude": 72544,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "bul_Cyrl": {
+  "claude": 54508,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "cat_Latn": {
+  "claude": 60028,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ceb_Latn": {
+  "claude": 81767,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ces_Latn": {
+  "claude": 60561,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "cjk_Latn": {
+  "claude": 75776,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ckb_Arab": {
+  "claude": 106595,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "crh_Latn": {
+  "claude": 76342,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "cym_Latn": {
+  "claude": 82816,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "dan_Latn": {
+  "claude": 59406,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "deu_Latn": {
+  "claude": 73764,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "dik_Latn": {
+  "claude": 78649,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "dyu_Latn": {
+  "claude": 73622,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "dzo_Tibt": {
+  "claude": 224648,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ell_Grek": {
+  "claude": 105258,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "eng_Latn": {
+  "claude": 42927,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "epo_Latn": {
+  "claude": 69416,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "est_Latn": {
+  "claude": 66641,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "eus_Latn": {
+  "claude": 70683,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ewe_Latn": {
+  "claude": 93855,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fao_Latn": {
+  "claude": 69597,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fij_Latn": {
+  "claude": 79894,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fin_Latn": {
+  "claude": 74919,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fon_Latn": {
+  "claude": 125225,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fra_Latn": {
+  "claude": 63553,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fur_Latn": {
+  "claude": 65722,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "fuv_Latn": {
+  "claude": 66679,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "gaz_Latn": {
+  "claude": 88884,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "gla_Latn": {
+  "claude": 87443,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "gle_Latn": {
+  "claude": 81797,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "glg_Latn": {
+  "claude": 60366,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "grn_Latn": {
+  "claude": 79148,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "guj_Gujr": {
+  "claude": 117265,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hat_Latn": {
+  "claude": 64974,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hau_Latn": {
+  "claude": 74848,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "heb_Hebr": {
+  "claude": 71514,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hin_Deva": {
+  "claude": 92746,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hne_Deva": {
+  "claude": 95816,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hrv_Latn": {
+  "claude": 61899,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hun_Latn": {
+  "claude": 66620,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "hye_Armn": {
+  "claude": 96196,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ibo_Latn": {
+  "claude": 90958,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ilo_Latn": {
+  "claude": 81564,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ind_Latn": {
+  "claude": 68833,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "isl_Latn": {
+  "claude": 68448,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ita_Latn": {
+  "claude": 65343,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "jav_Latn": {
+  "claude": 69046,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "jpn_Jpan": {
+  "claude": 54234,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kab_Latn": {
+  "claude": 84009,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kac_Latn": {
+  "claude": 93084,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kam_Latn": {
+  "claude": 78729,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kan_Knda": {
+  "claude": 244831,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kas_Arab": {
+  "claude": 116729,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kas_Deva": {
+  "claude": 103222,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kat_Geor": {
+  "claude": 102718,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kaz_Cyrl": {
+  "claude": 73906,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kbp_Latn": {
+  "claude": 159601,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kea_Latn": {
+  "claude": 65114,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "khk_Cyrl": {
+  "claude": 88396,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "khm_Khmr": {
+  "claude": 170357,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kik_Latn": {
+  "claude": 107069,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kin_Latn": {
+  "claude": 82586,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kir_Cyrl": {
+  "claude": 75206,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kmb_Latn": {
+  "claude": 82390,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kmr_Latn": {
+  "claude": 75906,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "knc_Arab": {
+  "claude": 105865,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "knc_Latn": {
+  "claude": 83646,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kon_Latn": {
+  "claude": 81634,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "kor_Hang": {
+  "claude": 69207,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lao_Laoo": {
+  "claude": 170519,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lij_Latn": {
+  "claude": 72331,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lim_Latn": {
+  "claude": 68417,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lin_Latn": {
+  "claude": 73293,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lit_Latn": {
+  "claude": 69838,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lmo_Latn": {
+  "claude": 71077,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ltg_Latn": {
+  "claude": 74069,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ltz_Latn": {
+  "claude": 77324,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lua_Latn": {
+  "claude": 76703,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lug_Latn": {
+  "claude": 75915,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "luo_Latn": {
+  "claude": 73153,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lus_Latn": {
+  "claude": 75350,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "lvs_Latn": {
+  "claude": 73802,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mag_Deva": {
+  "claude": 93607,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mai_Deva": {
+  "claude": 100698,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mal_Mlym": {
+  "claude": 170329,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mar_Deva": {
+  "claude": 102578,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "min_Arab": {
+  "claude": 104845,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "min_Latn": {
+  "claude": 70894,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mkd_Cyrl": {
+  "claude": 57399,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mlt_Latn": {
+  "claude": 84565,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mni_Beng": {
+  "claude": 127750,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mos_Latn": {
+  "claude": 79571,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mri_Latn": {
+  "claude": 80492,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "mya_Mymr": {
+  "claude": 172929,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nld_Latn": {
+  "claude": 66140,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nno_Latn": {
+  "claude": 60713,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nob_Latn": {
+  "claude": 58915,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "npi_Deva": {
+  "claude": 101457,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nso_Latn": {
+  "claude": 79871,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nus_Latn": {
+  "claude": 138521,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "nya_Latn": {
+  "claude": 79798,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "oci_Latn": {
+  "claude": 66103,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ory_Orya": {
+  "claude": 214687,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pag_Latn": {
+  "claude": 61766,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pan_Guru": {
+  "claude": 272424,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pap_Latn": {
+  "claude": 65973,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pbt_Arab": {
+  "claude": 86476,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pes_Arab": {
+  "claude": 81385,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "plt_Latn": {
+  "claude": 85038,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "pol_Latn": {
+  "claude": 68194,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "por_Latn": {
+  "claude": 58717,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "prs_Arab": {
+  "claude": 76598,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "quy_Latn": {
+  "claude": 77707,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ron_Latn": {
+  "claude": 64536,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "run_Latn": {
+  "claude": 82820,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "rus_Cyrl": {
+  "claude": 56562,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sag_Latn": {
+  "claude": 78147,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "san_Deva": {
+  "claude": 104121,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sat_Olck": {
+  "claude": 395591,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "scn_Latn": {
+  "claude": 73273,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "shn_Mymr": {
+  "claude": 299367,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sin_Sinh": {
+  "claude": 128001,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "slk_Latn": {
+  "claude": 67065,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "slv_Latn": {
+  "claude": 63461,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "smo_Latn": {
+  "claude": 82722,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sna_Latn": {
+  "claude": 81260,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "snd_Arab": {
+  "claude": 106220,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "som_Latn": {
+  "claude": 85752,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sot_Latn": {
+  "claude": 85361,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "spa_Latn": {
+  "claude": 62409,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "srd_Latn": {
+  "claude": 71294,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "srp_Cyrl": {
+  "claude": 54011,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ssw_Latn": {
+  "claude": 81694,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "sun_Latn": {
+  "claude": 70388,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "swe_Latn": {
+  "claude": 56531,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "swh_Latn": {
+  "claude": 75690,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "szl_Latn": {
+  "claude": 76223,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tam_Taml": {
+  "claude": 129624,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "taq_Latn": {
+  "claude": 77711,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "taq_Tfng": {
+  "claude": 340216,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tat_Cyrl": {
+  "claude": 74779,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tel_Telu": {
+  "claude": 119672,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tgk_Cyrl": {
+  "claude": 91158,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tgl_Latn": {
+  "claude": 84192,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tha_Thai": {
+  "claude": 113472,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tir_Ethi": {
+  "claude": 131322,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tpi_Latn": {
+  "claude": 76519,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tsn_Latn": {
+  "claude": 86878,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tso_Latn": {
+  "claude": 87965,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tuk_Latn": {
+  "claude": 81759,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tum_Latn": {
+  "claude": 97827,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tur_Latn": {
+  "claude": 72967,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "twi_Latn": {
+  "claude": 90181,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "tzm_Tfng": {
+  "claude": 326753,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "uig_Arab": {
+  "claude": 132091,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ukr_Cyrl": {
+  "claude": 57807,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "umb_Latn": {
+  "claude": 76838,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "urd_Arab": {
+  "claude": 101395,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "uzn_Latn": {
+  "claude": 81700,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "vec_Latn": {
+  "claude": 62876,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "vie_Latn": {
+  "claude": 78015,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "war_Latn": {
+  "claude": 80936,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "wol_Latn": {
+  "claude": 73593,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "xho_Latn": {
+  "claude": 79001,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "ydd_Hebr": {
+  "claude": 96691,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "yor_Latn": {
+  "claude": 101454,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "yue_Hant": {
+  "claude": 47654,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "zho_Hans": {
+  "claude": 48713,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "zho_Hant": {
+  "claude": 48714,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "zsm_Latn": {
+  "claude": 70825,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ },
+ "zul_Latn": {
+  "claude": 83057,
+  "sentences": 1012,
+  "model": "claude-opus-5-5",
+  "overhead": 8
+ }
+}

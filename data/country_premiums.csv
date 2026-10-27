@@ -1,0 +1,176 @@
+country,iso3,iso2,iso_numeric,language,flores_code,chatgpt_o200k_premium,gemini_gemma3_premium,gemini_gemma4_premium,gemini_3x_flash_premium,gemini_4_argon_premium,claude_premium,llama3_premium,llama4_muse_premium,deepseek_v4_premium,qwen3_premium,qwen35_premium,mistral_tekken_premium,tooltip_chatgpt
+Fiji,FJI,FJ,242,Fijian,fij_Latn,1.852,1.897,1.897,1.897,1.936,1.861,2.146,1.979,2.125,2.141,2.003,2.059,Fijian: 1.85x tokens vs English on ChatGPT
+Tanzania,TZA,TZ,834,Swahili,swh_Latn,1.486,1.616,1.616,1.616,1.657,1.763,1.931,1.673,1.941,1.936,1.792,1.817,Swahili: 1.49x tokens vs English on ChatGPT
+W. Sahara,ESH,EH,732,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Canada,CAN,CA,124,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+United States of America,USA,US,840,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Kazakhstan,KAZ,KZ,398,Kazakh,kaz_Cyrl,1.585,2.001,2.001,2.001,2.099,1.722,3.085,1.828,2.656,3.011,2.155,2.051,Kazakh: 1.58x tokens vs English on ChatGPT
+Uzbekistan,UZB,UZ,860,Northern Uzbek,uzn_Latn,1.775,1.874,1.874,1.874,1.915,1.903,2.12,1.73,2.129,2.146,1.998,1.819,Northern Uzbek: 1.77x tokens vs English on ChatGPT
+Papua New Guinea,PNG,PG,598,Tok Pisin,tpi_Latn,1.792,1.887,1.887,1.887,1.896,1.783,2.032,1.944,2.046,2.025,1.923,1.979,Tok Pisin: 1.79x tokens vs English on ChatGPT
+Indonesia,IDN,ID,360,Indonesian,ind_Latn,1.25,1.148,1.148,1.148,1.115,1.603,1.541,1.134,1.349,1.543,1.089,1.322,Indonesian: 1.25x tokens vs English on ChatGPT
+Argentina,ARG,AR,032,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Chile,CHL,CL,152,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Dem. Rep. Congo,COD,CD,180,Lingala,lin_Latn,1.617,1.699,1.699,1.699,1.743,1.707,1.86,1.78,1.865,1.857,1.761,1.792,Lingala: 1.62x tokens vs English on ChatGPT
+Somalia,SOM,SO,706,Somali,som_Latn,1.724,1.898,1.898,1.898,1.928,1.998,2.187,1.953,2.229,2.186,2.046,2.153,Somali: 1.72x tokens vs English on ChatGPT
+Kenya,KEN,KE,404,Swahili,swh_Latn,1.486,1.616,1.616,1.616,1.657,1.763,1.931,1.673,1.941,1.936,1.792,1.817,Swahili: 1.49x tokens vs English on ChatGPT
+Sudan,SDN,SD,729,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Chad,TCD,TD,148,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Haiti,HTI,HT,332,Haitian Creole,hat_Latn,1.412,1.514,1.514,1.514,1.521,1.514,1.696,1.55,1.684,1.719,1.589,1.598,Haitian Creole: 1.41x tokens vs English on ChatGPT
+Dominican Rep.,DOM,DO,214,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Russia,RUS,RU,643,Russian,rus_Cyrl,1.421,1.352,1.352,1.352,1.34,1.318,1.616,1.228,1.582,1.755,1.35,1.504,Russian: 1.42x tokens vs English on ChatGPT
+Bahamas,BHS,BS,044,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Falkland Is.,FLK,FK,238,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Norway,NOR,NO,578,Norwegian Bokmål,nob_Latn,1.349,1.383,1.383,1.383,1.372,1.372,1.555,1.376,1.549,1.554,1.371,1.414,Norwegian Bokmål: 1.35x tokens vs English on ChatGPT
+Greenland,GRL,GL,304,Danish,dan_Latn,1.395,1.427,1.427,1.427,1.418,1.384,1.62,1.426,1.629,1.617,1.402,1.49,Danish: 1.40x tokens vs English on ChatGPT
+Timor-Leste,TLS,TL,626,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+South Africa,ZAF,ZA,710,Zulu,zul_Latn,1.721,1.94,1.94,1.94,2.0,1.935,2.187,1.963,2.189,2.188,2.074,2.101,Zulu: 1.72x tokens vs English on ChatGPT
+Lesotho,LSO,LS,426,Southern Sotho,sot_Latn,1.836,1.976,1.976,1.976,2.035,1.989,2.191,2.007,2.192,2.194,2.076,2.13,Southern Sotho: 1.84x tokens vs English on ChatGPT
+Mexico,MEX,MX,484,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Uruguay,URY,UY,858,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Brazil,BRA,BR,076,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+Bolivia,BOL,BO,068,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Peru,PER,PE,604,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Colombia,COL,CO,170,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Panama,PAN,PA,591,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Costa Rica,CRI,CR,188,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Nicaragua,NIC,NI,558,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Honduras,HND,HN,340,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+El Salvador,SLV,SV,222,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Guatemala,GTM,GT,320,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Belize,BLZ,BZ,084,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Venezuela,VEN,VE,862,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Guyana,GUY,GY,328,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Suriname,SUR,SR,740,Dutch,nld_Latn,1.247,1.37,1.37,1.37,1.354,1.541,1.599,1.331,1.497,1.591,1.366,1.412,Dutch: 1.25x tokens vs English on ChatGPT
+France,FRA,FR,250,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Ecuador,ECU,EC,218,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Puerto Rico,PRI,PR,630,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Jamaica,JAM,JM,388,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Cuba,CUB,CU,192,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Zimbabwe,ZWE,ZW,716,Shona,sna_Latn,1.7,1.842,1.842,1.842,1.876,1.893,2.077,1.874,2.088,2.113,1.946,1.986,Shona: 1.70x tokens vs English on ChatGPT
+Botswana,BWA,BW,072,Tswana,tsn_Latn,1.909,2.049,2.049,2.049,2.093,2.024,2.259,2.088,2.253,2.244,2.126,2.175,Tswana: 1.91x tokens vs English on ChatGPT
+Namibia,NAM,NA,516,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Senegal,SEN,SN,686,Wolof,wol_Latn,1.732,1.747,1.747,1.747,1.743,1.714,1.9,1.77,1.882,1.908,1.803,1.864,Wolof: 1.73x tokens vs English on ChatGPT
+Mali,MLI,ML,466,Bambara,bam_Latn,2.039,2.045,2.045,2.045,2.06,2.091,2.519,2.099,2.191,2.131,2.4,2.443,Bambara: 2.04x tokens vs English on ChatGPT
+Mauritania,MRT,MR,478,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Benin,BEN,BJ,204,Fon,fon_Latn,2.886,2.589,2.589,2.589,2.805,2.917,3.629,2.884,3.184,2.867,3.367,3.585,Fon: 2.89x tokens vs English on ChatGPT
+Niger,NER,NE,562,Hausa,hau_Latn,1.55,1.703,1.703,1.703,1.733,1.744,1.972,1.727,1.944,1.944,1.851,1.896,Hausa: 1.55x tokens vs English on ChatGPT
+Nigeria,NGA,NG,566,Hausa,hau_Latn,1.55,1.703,1.703,1.703,1.733,1.744,1.972,1.727,1.944,1.944,1.851,1.896,Hausa: 1.55x tokens vs English on ChatGPT
+Cameroon,CMR,CM,120,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Togo,TGO,TG,768,Ewe,ewe_Latn,2.349,2.144,2.144,2.144,2.2,2.186,2.639,2.304,2.495,2.353,2.585,2.625,Ewe: 2.35x tokens vs English on ChatGPT
+Ghana,GHA,GH,288,Twi,twi_Latn,1.857,1.912,1.912,1.912,2.052,2.101,2.494,2.065,2.166,2.143,2.379,2.393,Twi: 1.86x tokens vs English on ChatGPT
+Côte d'Ivoire,CIV,CI,384,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Guinea,GIN,GN,324,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Guinea-Bissau,GNB,GW,624,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+Liberia,LBR,LR,430,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Sierra Leone,SLE,SL,694,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Burkina Faso,BFA,BF,854,Mossi,mos_Latn,2.036,1.96,1.96,1.96,1.956,1.854,2.156,2.059,2.161,2.039,2.024,2.085,Mossi: 2.04x tokens vs English on ChatGPT
+Central African Rep.,CAF,CF,140,Sango,sag_Latn,1.822,1.837,1.837,1.837,1.856,1.82,2.059,1.917,2.054,2.043,1.9,1.954,Sango: 1.82x tokens vs English on ChatGPT
+Congo,COG,CG,178,Lingala,lin_Latn,1.617,1.699,1.699,1.699,1.743,1.707,1.86,1.78,1.865,1.857,1.761,1.792,Lingala: 1.62x tokens vs English on ChatGPT
+Gabon,GAB,GA,266,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Eq. Guinea,GNQ,GQ,226,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Zambia,ZMB,ZM,894,Bemba,bem_Latn,1.935,1.987,1.987,1.987,2.007,2.035,2.192,2.053,2.21,2.188,2.047,2.102,Bemba: 1.94x tokens vs English on ChatGPT
+Malawi,MWI,MW,454,Nyanja,nya_Latn,1.612,1.834,1.834,1.834,1.847,1.859,2.052,1.828,2.068,2.064,1.938,1.981,Nyanja: 1.61x tokens vs English on ChatGPT
+Mozambique,MOZ,MZ,508,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+eSwatini,SWZ,SZ,748,Swati,ssw_Latn,1.807,1.907,1.907,1.907,1.939,1.903,2.145,1.95,2.121,2.146,2.019,2.039,Swati: 1.81x tokens vs English on ChatGPT
+Angola,AGO,AO,024,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+Burundi,BDI,BI,108,Rundi,run_Latn,1.78,1.94,1.94,1.94,1.957,1.929,2.121,1.99,2.126,2.118,1.995,2.029,Rundi: 1.78x tokens vs English on ChatGPT
+Israel,ISR,IL,376,Hebrew,heb_Hebr,1.483,1.707,1.707,1.707,1.635,1.666,3.644,1.737,1.769,1.474,1.797,1.632,Hebrew: 1.48x tokens vs English on ChatGPT
+Lebanon,LBN,LB,422,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Madagascar,MDG,MG,450,Plateau Malagasy,plt_Latn,1.792,2.024,2.024,2.024,2.054,1.981,2.227,2.044,2.173,2.227,2.078,2.116,Plateau Malagasy: 1.79x tokens vs English on ChatGPT
+Palestine,PSE,PS,275,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Gambia,GMB,GM,270,Wolof,wol_Latn,1.732,1.747,1.747,1.747,1.743,1.714,1.9,1.77,1.882,1.908,1.803,1.864,Wolof: 1.73x tokens vs English on ChatGPT
+Tunisia,TUN,TN,788,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Algeria,DZA,DZ,012,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Jordan,JOR,JO,400,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+United Arab Emirates,ARE,AE,784,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Qatar,QAT,QA,634,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Kuwait,KWT,KW,414,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Iraq,IRQ,IQ,368,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Oman,OMN,OM,512,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Vanuatu,VUT,VU,548,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Cambodia,KHM,KH,116,Khmer,khm_Khmr,3.337,2.672,2.672,2.672,3.456,3.969,8.753,3.191,6.825,6.504,5.054,14.737,Khmer: 3.34x tokens vs English on ChatGPT
+Thailand,THA,TH,764,Thai,tha_Thai,1.99,1.588,1.588,1.588,1.509,2.643,2.216,1.59,1.805,2.576,1.194,2.408,Thai: 1.99x tokens vs English on ChatGPT
+Laos,LAO,LA,418,Lao,lao_Laoo,8.229,2.561,2.561,2.561,3.364,3.972,8.791,3.247,7.973,5.692,4.653,12.657,Lao: 8.23x tokens vs English on ChatGPT
+Myanmar,MMR,MM,104,Burmese,mya_Mymr,3.164,2.358,2.358,2.358,3.156,4.028,11.655,3.153,5.333,8.961,3.341,3.248,Burmese: 3.16x tokens vs English on ChatGPT
+Vietnam,VNM,VN,704,Vietnamese,vie_Latn,1.49,1.358,1.358,1.358,1.346,1.817,1.391,1.328,2.118,1.435,1.297,1.43,Vietnamese: 1.49x tokens vs English on ChatGPT
+North Korea,PRK,KP,408,Korean,kor_Hang,1.472,1.361,1.361,1.361,1.26,1.612,1.488,1.266,1.643,1.63,1.223,1.278,Korean: 1.47x tokens vs English on ChatGPT
+South Korea,KOR,KR,410,Korean,kor_Hang,1.472,1.361,1.361,1.361,1.26,1.612,1.488,1.266,1.643,1.63,1.223,1.278,Korean: 1.47x tokens vs English on ChatGPT
+Mongolia,MNG,MN,496,Halh Mongolian,khk_Cyrl,1.89,2.278,2.278,2.278,2.273,2.059,3.233,1.913,2.938,3.08,2.381,2.368,Halh Mongolian: 1.89x tokens vs English on ChatGPT
+India,IND,IN,356,Hindi,hin_Deva,1.574,1.299,1.299,1.299,1.438,2.161,2.526,1.651,2.795,4.427,1.975,1.797,Hindi: 1.57x tokens vs English on ChatGPT
+Bangladesh,BGD,BD,050,Bengali,ben_Beng,1.697,1.203,1.203,1.203,1.5,2.674,5.757,2.054,2.017,5.059,2.139,2.052,Bengali: 1.70x tokens vs English on ChatGPT
+Bhutan,BTN,BT,064,Dzongkha,dzo_Tibt,9.03,4.094,4.094,4.094,5.023,5.233,12.18,6.401,6.842,8.063,8.062,13.411,Dzongkha: 9.03x tokens vs English on ChatGPT
+Nepal,NPL,NP,524,Nepali,npi_Deva,1.615,1.51,1.51,1.51,1.506,2.363,2.59,1.828,2.967,4.451,2.16,2.129,Nepali: 1.61x tokens vs English on ChatGPT
+Pakistan,PAK,PK,586,Urdu,urd_Arab,1.653,1.5,1.5,1.5,1.634,2.362,3.109,1.887,2.4,3.183,1.945,1.755,Urdu: 1.65x tokens vs English on ChatGPT
+Afghanistan,AFG,AF,004,Dari,prs_Arab,1.476,1.412,1.412,1.412,1.41,1.784,1.494,1.467,1.624,2.483,1.473,1.422,Dari: 1.48x tokens vs English on ChatGPT
+Tajikistan,TJK,TJ,762,Tajik,tgk_Cyrl,1.893,2.249,2.249,2.249,2.333,2.124,2.934,2.262,2.779,2.896,2.359,2.683,Tajik: 1.89x tokens vs English on ChatGPT
+Kyrgyzstan,KGZ,KG,417,Kyrgyz,kir_Cyrl,1.673,1.908,1.908,1.908,2.101,1.752,2.9,2.002,2.582,2.752,2.233,2.179,Kyrgyz: 1.67x tokens vs English on ChatGPT
+Turkmenistan,TKM,TM,795,Turkmen,tuk_Latn,1.668,2.021,2.021,2.021,2.029,1.905,2.144,2.046,2.328,2.197,2.029,2.083,Turkmen: 1.67x tokens vs English on ChatGPT
+Iran,IRN,IR,364,Western Persian,pes_Arab,1.531,1.441,1.441,1.441,1.426,1.896,1.523,1.492,1.788,2.578,1.572,1.438,Western Persian: 1.53x tokens vs English on ChatGPT
+Syria,SYR,SY,760,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Armenia,ARM,AM,051,Armenian,hye_Armn,1.788,2.774,2.774,2.774,2.676,2.241,8.658,4.773,3.013,5.282,3.545,1.915,Armenian: 1.79x tokens vs English on ChatGPT
+Sweden,SWE,SE,752,Swedish,swe_Latn,1.351,1.362,1.362,1.362,1.338,1.317,1.569,1.32,1.55,1.566,1.374,1.406,Swedish: 1.35x tokens vs English on ChatGPT
+Belarus,BLR,BY,112,Belarusian,bel_Cyrl,1.985,2.123,2.123,2.123,2.256,1.867,2.579,2.227,2.619,2.973,2.322,2.154,Belarusian: 1.99x tokens vs English on ChatGPT
+Ukraine,UKR,UA,804,Ukrainian,ukr_Cyrl,1.749,1.588,1.588,1.588,1.586,1.347,1.643,1.538,2.161,2.499,1.711,1.731,Ukrainian: 1.75x tokens vs English on ChatGPT
+Poland,POL,PL,616,Polish,pol_Latn,1.638,1.488,1.488,1.488,1.422,1.589,1.891,1.396,1.684,1.766,1.495,1.575,Polish: 1.64x tokens vs English on ChatGPT
+Austria,AUT,AT,040,German,deu_Latn,1.311,1.317,1.317,1.317,1.302,1.718,1.582,1.296,1.515,1.56,1.303,1.305,German: 1.31x tokens vs English on ChatGPT
+Hungary,HUN,HU,348,Hungarian,hun_Latn,1.794,1.656,1.656,1.656,1.655,1.552,2.115,1.565,1.988,2.121,1.633,1.611,Hungarian: 1.79x tokens vs English on ChatGPT
+Moldova,MDA,MD,498,Romanian,ron_Latn,1.632,1.555,1.555,1.555,1.543,1.503,1.869,1.47,1.861,1.861,1.556,1.609,Romanian: 1.63x tokens vs English on ChatGPT
+Romania,ROU,RO,642,Romanian,ron_Latn,1.632,1.555,1.555,1.555,1.543,1.503,1.869,1.47,1.861,1.861,1.556,1.609,Romanian: 1.63x tokens vs English on ChatGPT
+Lithuania,LTU,LT,440,Lithuanian,lit_Latn,1.677,1.649,1.649,1.649,1.65,1.627,2.146,1.612,1.96,2.043,1.65,1.73,Lithuanian: 1.68x tokens vs English on ChatGPT
+Latvia,LVA,LV,428,Standard Latvian,lvs_Latn,1.813,1.853,1.853,1.853,1.829,1.719,2.305,1.726,2.223,2.278,1.85,1.912,Standard Latvian: 1.81x tokens vs English on ChatGPT
+Estonia,EST,EE,233,Estonian,est_Latn,1.495,1.554,1.554,1.554,1.588,1.552,1.858,1.562,1.851,1.854,1.615,1.603,Estonian: 1.50x tokens vs English on ChatGPT
+Germany,DEU,DE,276,German,deu_Latn,1.311,1.317,1.317,1.317,1.302,1.718,1.582,1.296,1.515,1.56,1.303,1.305,German: 1.31x tokens vs English on ChatGPT
+Bulgaria,BGR,BG,100,Bulgarian,bul_Cyrl,1.714,1.598,1.598,1.598,1.59,1.27,2.038,1.501,1.976,2.206,1.639,1.644,Bulgarian: 1.71x tokens vs English on ChatGPT
+Greece,GRC,GR,300,Greek,ell_Grek,2.14,2.145,2.145,2.145,2.108,2.452,2.241,2.041,2.689,4.907,2.071,2.113,Greek: 2.14x tokens vs English on ChatGPT
+Turkey,TUR,TR,792,Turkish,tur_Latn,1.431,1.357,1.357,1.357,1.334,1.7,1.403,1.316,2.041,1.624,1.419,1.492,Turkish: 1.43x tokens vs English on ChatGPT
+Albania,ALB,AL,008,Tosk Albanian,als_Latn,1.831,1.916,1.916,1.916,1.838,1.756,2.223,1.744,2.297,2.225,1.907,1.869,Tosk Albanian: 1.83x tokens vs English on ChatGPT
+Croatia,HRV,HR,191,Croatian,hrv_Latn,1.482,1.466,1.466,1.466,1.438,1.442,1.771,1.543,1.794,1.831,1.527,1.501,Croatian: 1.48x tokens vs English on ChatGPT
+Switzerland,CHE,CH,756,German,deu_Latn,1.311,1.317,1.317,1.317,1.302,1.718,1.582,1.296,1.515,1.56,1.303,1.305,German: 1.31x tokens vs English on ChatGPT
+Luxembourg,LUX,LU,442,Luxembourgish,ltz_Latn,1.668,1.784,1.784,1.784,1.785,1.801,1.97,1.827,1.95,1.961,1.789,1.838,Luxembourgish: 1.67x tokens vs English on ChatGPT
+Belgium,BEL,BE,056,Dutch,nld_Latn,1.247,1.37,1.37,1.37,1.354,1.541,1.599,1.331,1.497,1.591,1.366,1.412,Dutch: 1.25x tokens vs English on ChatGPT
+Netherlands,NLD,NL,528,Dutch,nld_Latn,1.247,1.37,1.37,1.37,1.354,1.541,1.599,1.331,1.497,1.591,1.366,1.412,Dutch: 1.25x tokens vs English on ChatGPT
+Portugal,PRT,PT,620,Portuguese,por_Latn,1.225,1.248,1.248,1.248,1.232,1.368,1.475,1.225,1.423,1.453,1.23,1.276,Portuguese: 1.23x tokens vs English on ChatGPT
+Spain,ESP,ES,724,Spanish,spa_Latn,1.318,1.286,1.286,1.286,1.28,1.454,1.541,1.298,1.495,1.523,1.31,1.319,Spanish: 1.32x tokens vs English on ChatGPT
+Ireland,IRL,IE,372,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+New Caledonia,NCL,NC,540,French,fra_Latn,1.372,1.397,1.397,1.397,1.419,1.48,1.602,1.367,1.547,1.583,1.382,1.322,French: 1.37x tokens vs English on ChatGPT
+Solomon Is.,SLB,SB,090,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+New Zealand,NZL,NZ,554,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Australia,AUS,AU,036,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Sri Lanka,LKA,LK,144,Sinhala,sin_Sinh,2.695,2.243,2.243,2.243,3.154,2.982,8.629,2.713,4.572,6.876,3.613,12.316,Sinhala: 2.69x tokens vs English on ChatGPT
+China,CHN,CN,156,Chinese (Simplified),zho_Hans,1.249,1.076,1.076,1.076,1.034,1.135,1.282,1.063,0.939,1.005,0.914,1.403,Chinese (Simplified): 1.25x tokens vs English on ChatGPT
+Taiwan,TWN,TW,158,Chinese (Traditional),zho_Hant,1.418,1.119,1.119,1.119,1.078,1.135,1.35,1.142,1.063,1.147,1.003,1.474,Chinese (Traditional): 1.42x tokens vs English on ChatGPT
+Italy,ITA,IT,380,Italian,ita_Latn,1.469,1.363,1.363,1.363,1.353,1.522,1.638,1.355,1.543,1.626,1.314,1.394,Italian: 1.47x tokens vs English on ChatGPT
+Denmark,DNK,DK,208,Danish,dan_Latn,1.395,1.427,1.427,1.427,1.418,1.384,1.62,1.426,1.629,1.617,1.402,1.49,Danish: 1.40x tokens vs English on ChatGPT
+United Kingdom,GBR,GB,826,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+Iceland,ISL,IS,352,Icelandic,isl_Latn,1.608,1.829,1.829,1.829,1.765,1.595,2.093,1.823,2.103,2.097,1.823,1.883,Icelandic: 1.61x tokens vs English on ChatGPT
+Azerbaijan,AZE,AZ,031,North Azerbaijani,azj_Latn,1.714,1.989,1.989,1.989,1.93,1.915,2.417,1.816,2.485,2.492,1.94,1.81,North Azerbaijani: 1.71x tokens vs English on ChatGPT
+Georgia,GEO,GE,268,Georgian,kat_Geor,1.786,2.248,2.248,2.248,2.675,2.393,9.754,2.202,3.913,5.189,2.881,2.392,Georgian: 1.79x tokens vs English on ChatGPT
+Philippines,PHL,PH,608,Tagalog,tgl_Latn,1.695,1.798,1.798,1.798,1.829,1.961,2.037,1.783,2.007,2.044,1.887,1.938,Tagalog: 1.70x tokens vs English on ChatGPT
+Malaysia,MYS,MY,458,Standard Malay,zsm_Latn,1.301,1.208,1.208,1.208,1.187,1.65,1.607,1.2,1.407,1.608,1.172,1.348,Standard Malay: 1.30x tokens vs English on ChatGPT
+Brunei,BRN,BN,096,Standard Malay,zsm_Latn,1.301,1.208,1.208,1.208,1.187,1.65,1.607,1.2,1.407,1.608,1.172,1.348,Standard Malay: 1.30x tokens vs English on ChatGPT
+Slovenia,SVN,SI,705,Slovenian,slv_Latn,1.511,1.549,1.549,1.549,1.527,1.478,1.797,1.57,1.814,1.866,1.584,1.559,Slovenian: 1.51x tokens vs English on ChatGPT
+Finland,FIN,FI,246,Finnish,fin_Latn,1.562,1.643,1.643,1.643,1.61,1.745,1.985,1.604,1.868,1.975,1.621,1.651,Finnish: 1.56x tokens vs English on ChatGPT
+Slovakia,SVK,SK,703,Slovak,slk_Latn,1.677,1.594,1.594,1.594,1.556,1.562,1.844,1.564,1.906,2.074,1.617,1.671,Slovak: 1.68x tokens vs English on ChatGPT
+Czechia,CZE,CZ,203,Czech,ces_Latn,1.597,1.506,1.506,1.506,1.476,1.411,1.505,1.467,1.699,2.066,1.521,1.546,Czech: 1.60x tokens vs English on ChatGPT
+Eritrea,ERI,ER,232,Tigrinya,tir_Ethi,6.002,2.423,2.423,2.423,2.939,3.059,7.81,3.008,6.156,4.188,4.568,7.639,Tigrinya: 6.00x tokens vs English on ChatGPT
+Japan,JPN,JP,392,Japanese,jpn_Jpan,1.658,1.206,1.206,1.206,1.129,1.263,1.511,1.306,1.421,1.403,1.157,1.569,Japanese: 1.66x tokens vs English on ChatGPT
+Paraguay,PRY,PY,600,Guarani,grn_Latn,1.778,1.903,1.903,1.903,1.896,1.844,2.081,1.892,2.062,2.086,1.901,1.958,Guarani: 1.78x tokens vs English on ChatGPT
+Yemen,YEM,YE,887,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Saudi Arabia,SAU,SA,682,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+N. Cyprus,,,,Turkish,tur_Latn,1.431,1.357,1.357,1.357,1.334,1.7,1.403,1.316,2.041,1.624,1.419,1.492,Turkish: 1.43x tokens vs English on ChatGPT
+Cyprus,CYP,CY,196,Greek,ell_Grek,2.14,2.145,2.145,2.145,2.108,2.452,2.241,2.041,2.689,4.907,2.071,2.113,Greek: 2.14x tokens vs English on ChatGPT
+Morocco,MAR,MA,504,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Egypt,EGY,EG,818,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Libya,LBY,LY,434,Standard Arabic,arb_Arab,1.381,1.454,1.454,1.454,1.435,1.813,1.653,1.589,1.617,1.629,1.298,1.243,Standard Arabic: 1.38x tokens vs English on ChatGPT
+Ethiopia,ETH,ET,231,Amharic,amh_Ethi,5.815,1.904,1.904,1.904,2.517,2.645,7.621,2.394,6.009,4.081,4.257,7.462,Amharic: 5.82x tokens vs English on ChatGPT
+Djibouti,DJI,DJ,262,Somali,som_Latn,1.724,1.898,1.898,1.898,1.928,1.998,2.187,1.953,2.229,2.186,2.046,2.153,Somali: 1.72x tokens vs English on ChatGPT
+Somaliland,,,,Somali,som_Latn,1.724,1.898,1.898,1.898,1.928,1.998,2.187,1.953,2.229,2.186,2.046,2.153,Somali: 1.72x tokens vs English on ChatGPT
+Uganda,UGA,UG,800,Ganda,lug_Latn,1.666,1.794,1.794,1.794,1.801,1.768,1.942,1.837,1.949,1.948,1.832,1.874,Ganda: 1.67x tokens vs English on ChatGPT
+Rwanda,RWA,RW,646,Kinyarwanda,kin_Latn,1.713,1.932,1.932,1.932,1.959,1.924,2.114,1.985,2.125,2.109,1.986,2.026,Kinyarwanda: 1.71x tokens vs English on ChatGPT
+Bosnia and Herz.,BIH,BA,070,Bosnian,bos_Latn,1.5,1.47,1.47,1.47,1.441,1.473,1.8,1.566,1.818,1.857,1.55,1.522,Bosnian: 1.50x tokens vs English on ChatGPT
+Macedonia,MKD,MK,807,Macedonian,mkd_Cyrl,1.785,1.754,1.754,1.754,1.714,1.337,2.127,1.677,2.001,2.272,1.786,1.643,Macedonian: 1.78x tokens vs English on ChatGPT
+Serbia,SRB,RS,688,Serbian,srp_Cyrl,1.78,1.705,1.705,1.705,1.721,1.258,2.183,1.672,1.899,2.333,1.776,1.641,Serbian: 1.78x tokens vs English on ChatGPT
+Montenegro,MNE,ME,499,Serbian,srp_Cyrl,1.78,1.705,1.705,1.705,1.721,1.258,2.183,1.672,1.899,2.333,1.776,1.641,Serbian: 1.78x tokens vs English on ChatGPT
+Kosovo,XKX,XK,,Tosk Albanian,als_Latn,1.831,1.916,1.916,1.916,1.838,1.756,2.223,1.744,2.297,2.225,1.907,1.869,Tosk Albanian: 1.83x tokens vs English on ChatGPT
+Trinidad and Tobago,TTO,TT,780,English,eng_Latn,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,English: 1.00x tokens vs English on ChatGPT
+S. Sudan,SSD,SS,728,Southwestern Dinka,dik_Latn,1.861,1.849,1.849,1.849,1.847,1.832,2.178,1.882,1.951,2.01,2.077,2.062,Southwestern Dinka: 1.86x tokens vs English on ChatGPT

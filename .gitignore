@@ -1,0 +1,7 @@
+node_modules/
+tokenizers/
+flores/
+.venv/
+__pycache__/
+.env
+data/examples.json

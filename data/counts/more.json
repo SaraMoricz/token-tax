@@ -1,0 +1,1838 @@
+{
+ "ace_Arab": {
+  "gemma4": 61873,
+  "llama3": 78044,
+  "llama4_muse": 73068,
+  "deepseek_v4": 73419,
+  "qwen3": 73163,
+  "qwen35": 76870,
+  "mistral_tekken": 69015
+ },
+ "ace_Latn": {
+  "gemma4": 50166,
+  "llama3": 53581,
+  "llama4_muse": 49088,
+  "deepseek_v4": 52768,
+  "qwen3": 54271,
+  "qwen35": 50716,
+  "mistral_tekken": 51854
+ },
+ "acm_Arab": {
+  "gemma4": 40591,
+  "llama3": 44664,
+  "llama4_muse": 42890,
+  "deepseek_v4": 43645,
+  "qwen3": 44715,
+  "qwen35": 37270,
+  "mistral_tekken": 34914
+ },
+ "acq_Arab": {
+  "gemma4": 40777,
+  "llama3": 44948,
+  "llama4_muse": 43130,
+  "deepseek_v4": 43840,
+  "qwen3": 45033,
+  "qwen35": 37328,
+  "mistral_tekken": 34934
+ },
+ "aeb_Arab": {
+  "gemma4": 41186,
+  "llama3": 44870,
+  "llama4_muse": 43771,
+  "deepseek_v4": 44346,
+  "qwen3": 45570,
+  "qwen35": 38263,
+  "mistral_tekken": 36157
+ },
+ "afr_Latn": {
+  "gemma4": 42234,
+  "llama3": 45684,
+  "llama4_muse": 40438,
+  "deepseek_v4": 44140,
+  "qwen3": 46315,
+  "qwen35": 43185,
+  "mistral_tekken": 42267
+ },
+ "ajp_Arab": {
+  "gemma4": 38753,
+  "llama3": 42764,
+  "llama4_muse": 41420,
+  "deepseek_v4": 42112,
+  "qwen3": 42783,
+  "qwen35": 36246,
+  "mistral_tekken": 34104
+ },
+ "aka_Latn": {
+  "gemma4": 60742,
+  "llama3": 73032,
+  "llama4_muse": 61494,
+  "deepseek_v4": 63896,
+  "qwen3": 63192,
+  "qwen35": 73228,
+  "mistral_tekken": 72267
+ },
+ "als_Latn": {
+  "gemma4": 53899,
+  "llama3": 60402,
+  "llama4_muse": 47173,
+  "deepseek_v4": 62125,
+  "qwen3": 61473,
+  "qwen35": 54433,
+  "mistral_tekken": 52018
+ },
+ "amh_Ethi": {
+  "gemma4": 53563,
+  "llama3": 207121,
+  "llama4_muse": 64758,
+  "deepseek_v4": 162518,
+  "qwen3": 112730,
+  "qwen35": 121502,
+  "mistral_tekken": 207672
+ },
+ "apc_Arab": {
+  "gemma4": 39316,
+  "llama3": 43094,
+  "llama4_muse": 41909,
+  "deepseek_v4": 42464,
+  "qwen3": 43522,
+  "qwen35": 36380,
+  "mistral_tekken": 34185
+ },
+ "arb_Arab": {
+  "gemma4": 40896,
+  "llama3": 44924,
+  "llama4_muse": 42978,
+  "deepseek_v4": 43720,
+  "qwen3": 44999,
+  "qwen35": 37039,
+  "mistral_tekken": 34582
+ },
+ "arb_Latn": {
+  "gemma4": 63687,
+  "llama3": 65942,
+  "llama4_muse": 61660,
+  "deepseek_v4": 65260,
+  "qwen3": 66738,
+  "qwen35": 65152,
+  "mistral_tekken": 64862
+ },
+ "ars_Arab": {
+  "gemma4": 41024,
+  "llama3": 45105,
+  "llama4_muse": 43078,
+  "deepseek_v4": 43910,
+  "qwen3": 45104,
+  "qwen35": 37154,
+  "mistral_tekken": 34689
+ },
+ "ary_Arab": {
+  "gemma4": 42298,
+  "llama3": 46340,
+  "llama4_muse": 45122,
+  "deepseek_v4": 45793,
+  "qwen3": 46816,
+  "qwen35": 40169,
+  "mistral_tekken": 38111
+ },
+ "arz_Arab": {
+  "gemma4": 40000,
+  "llama3": 44740,
+  "llama4_muse": 43387,
+  "deepseek_v4": 43968,
+  "qwen3": 45143,
+  "qwen35": 38000,
+  "mistral_tekken": 35697
+ },
+ "asm_Beng": {
+  "gemma4": 55396,
+  "llama3": 166224,
+  "llama4_muse": 88976,
+  "deepseek_v4": 72946,
+  "qwen3": 149696,
+  "qwen35": 82496,
+  "mistral_tekken": 91418
+ },
+ "ast_Latn": {
+  "gemma4": 39851,
+  "llama3": 42744,
+  "llama4_muse": 38217,
+  "deepseek_v4": 42068,
+  "qwen3": 43360,
+  "qwen35": 40363,
+  "mistral_tekken": 39657
+ },
+ "awa_Deva": {
+  "gemma4": 40847,
+  "llama3": 68934,
+  "llama4_muse": 49298,
+  "deepseek_v4": 78435,
+  "qwen3": 119857,
+  "qwen35": 61115,
+  "mistral_tekken": 56645
+ },
+ "ayr_Latn": {
+  "gemma4": 55090,
+  "llama3": 58439,
+  "llama4_muse": 53996,
+  "deepseek_v4": 57933,
+  "qwen3": 59456,
+  "qwen35": 56996,
+  "mistral_tekken": 56387
+ },
+ "azb_Arab": {
+  "gemma4": 49104,
+  "llama3": 52115,
+  "llama4_muse": 51476,
+  "deepseek_v4": 55409,
+  "qwen3": 71946,
+  "qwen35": 53286,
+  "mistral_tekken": 49314
+ },
+ "azj_Latn": {
+  "gemma4": 55935,
+  "llama3": 65679,
+  "llama4_muse": 49121,
+  "deepseek_v4": 67211,
+  "qwen3": 68848,
+  "qwen35": 55372,
+  "mistral_tekken": 50365
+ },
+ "bak_Cyrl": {
+  "gemma4": 63776,
+  "llama3": 100073,
+  "llama4_muse": 64693,
+  "deepseek_v4": 79747,
+  "qwen3": 86261,
+  "qwen35": 71832,
+  "mistral_tekken": 71640
+ },
+ "bam_Latn": {
+  "gemma4": 57521,
+  "llama3": 68461,
+  "llama4_muse": 56788,
+  "deepseek_v4": 59247,
+  "qwen3": 58881,
+  "qwen35": 68502,
+  "mistral_tekken": 67988
+ },
+ "ban_Latn": {
+  "gemma4": 43310,
+  "llama3": 48178,
+  "llama4_muse": 41904,
+  "deepseek_v4": 45910,
+  "qwen3": 49120,
+  "qwen35": 43363,
+  "mistral_tekken": 46219
+ },
+ "bel_Cyrl": {
+  "gemma4": 59720,
+  "llama3": 70095,
+  "llama4_muse": 60251,
+  "deepseek_v4": 70820,
+  "qwen3": 82125,
+  "qwen35": 66281,
+  "mistral_tekken": 59945
+ },
+ "bem_Latn": {
+  "gemma4": 55897,
+  "llama3": 59567,
+  "llama4_muse": 55526,
+  "deepseek_v4": 59761,
+  "qwen3": 60439,
+  "qwen35": 58423,
+  "mistral_tekken": 58514
+ },
+ "ben_Beng": {
+  "gemma4": 33847,
+  "llama3": 156463,
+  "llama4_muse": 55571,
+  "deepseek_v4": 54553,
+  "qwen3": 139752,
+  "qwen35": 61043,
+  "mistral_tekken": 57110
+ },
+ "bho_Deva": {
+  "gemma4": 43729,
+  "llama3": 70646,
+  "llama4_muse": 52865,
+  "deepseek_v4": 78656,
+  "qwen3": 119015,
+  "qwen35": 63100,
+  "mistral_tekken": 57978
+ },
+ "bjn_Arab": {
+  "gemma4": 61935,
+  "llama3": 73865,
+  "llama4_muse": 71658,
+  "deepseek_v4": 72396,
+  "qwen3": 71873,
+  "qwen35": 72717,
+  "mistral_tekken": 67490
+ },
+ "bjn_Latn": {
+  "gemma4": 39321,
+  "llama3": 46189,
+  "llama4_muse": 38223,
+  "deepseek_v4": 43085,
+  "qwen3": 46924,
+  "qwen35": 39357,
+  "mistral_tekken": 43257
+ },
+ "bod_Tibt": {
+  "gemma4": 100687,
+  "llama3": 304941,
+  "llama4_muse": 155026,
+  "deepseek_v4": 166863,
+  "qwen3": 200568,
+  "qwen35": 209372,
+  "mistral_tekken": 342948
+ },
+ "bos_Latn": {
+  "gemma4": 41357,
+  "llama3": 48917,
+  "llama4_muse": 42371,
+  "deepseek_v4": 49175,
+  "qwen3": 51298,
+  "qwen35": 44232,
+  "mistral_tekken": 42374
+ },
+ "bug_Latn": {
+  "gemma4": 48672,
+  "llama3": 52791,
+  "llama4_muse": 47353,
+  "deepseek_v4": 51624,
+  "qwen3": 53824,
+  "qwen35": 50021,
+  "mistral_tekken": 50125
+ },
+ "bul_Cyrl": {
+  "gemma4": 44934,
+  "llama3": 55393,
+  "llama4_muse": 40596,
+  "deepseek_v4": 53439,
+  "qwen3": 60936,
+  "qwen35": 46765,
+  "mistral_tekken": 45750
+ },
+ "cat_Latn": {
+  "gemma4": 42872,
+  "llama3": 46239,
+  "llama4_muse": 41180,
+  "deepseek_v4": 43799,
+  "qwen3": 46611,
+  "qwen35": 43691,
+  "mistral_tekken": 40078
+ },
+ "ceb_Latn": {
+  "gemma4": 48992,
+  "llama3": 51883,
+  "llama4_muse": 47256,
+  "deepseek_v4": 49387,
+  "qwen3": 52908,
+  "qwen35": 51331,
+  "mistral_tekken": 51162
+ },
+ "ces_Latn": {
+  "gemma4": 42370,
+  "llama3": 40896,
+  "llama4_muse": 39698,
+  "deepseek_v4": 45952,
+  "qwen3": 57080,
+  "qwen35": 43397,
+  "mistral_tekken": 43035
+ },
+ "cjk_Latn": {
+  "gemma4": 49016,
+  "llama3": 52815,
+  "llama4_muse": 48315,
+  "deepseek_v4": 51995,
+  "qwen3": 53061,
+  "qwen35": 51292,
+  "mistral_tekken": 52131
+ },
+ "ckb_Arab": {
+  "gemma4": 62527,
+  "llama3": 107155,
+  "llama4_muse": 72224,
+  "deepseek_v4": 83051,
+  "qwen3": 95285,
+  "qwen35": 74524,
+  "mistral_tekken": 105982
+ },
+ "crh_Latn": {
+  "gemma4": 48653,
+  "llama3": 49643,
+  "llama4_muse": 46457,
+  "deepseek_v4": 58214,
+  "qwen3": 53750,
+  "qwen35": 50190,
+  "mistral_tekken": 50271
+ },
+ "cym_Latn": {
+  "gemma4": 54700,
+  "llama3": 57686,
+  "llama4_muse": 52917,
+  "deepseek_v4": 56792,
+  "qwen3": 58282,
+  "qwen35": 57500,
+  "mistral_tekken": 55618
+ },
+ "dan_Latn": {
+  "gemma4": 40123,
+  "llama3": 44034,
+  "llama4_muse": 38581,
+  "deepseek_v4": 44057,
+  "qwen3": 44660,
+  "qwen35": 40015,
+  "mistral_tekken": 41456
+ },
+ "deu_Latn": {
+  "gemma4": 37031,
+  "llama3": 43005,
+  "llama4_muse": 35067,
+  "deepseek_v4": 40980,
+  "qwen3": 43089,
+  "qwen35": 37175,
+  "mistral_tekken": 36321
+ },
+ "dik_Latn": {
+  "gemma4": 51994,
+  "llama3": 59199,
+  "llama4_muse": 50914,
+  "deepseek_v4": 52778,
+  "qwen3": 55535,
+  "qwen35": 59273,
+  "mistral_tekken": 57385
+ },
+ "dyu_Latn": {
+  "gemma4": 51137,
+  "llama3": 55134,
+  "llama4_muse": 51191,
+  "deepseek_v4": 55086,
+  "qwen3": 54259,
+  "qwen35": 53572,
+  "mistral_tekken": 53725
+ },
+ "dzo_Tibt": {
+  "gemma4": 115134,
+  "llama3": 331002,
+  "llama4_muse": 173170,
+  "deepseek_v4": 185041,
+  "qwen3": 222748,
+  "qwen35": 230104,
+  "mistral_tekken": 373255
+ },
+ "ell_Grek": {
+  "gemma4": 60341,
+  "llama3": 60895,
+  "llama4_muse": 55222,
+  "deepseek_v4": 72731,
+  "qwen3": 135569,
+  "qwen35": 59119,
+  "mistral_tekken": 58799
+ },
+ "eng_Latn": {
+  "gemma4": 28125,
+  "llama3": 27176,
+  "llama4_muse": 27052,
+  "deepseek_v4": 27046,
+  "qwen3": 27626,
+  "qwen35": 28541,
+  "mistral_tekken": 27832
+ },
+ "epo_Latn": {
+  "gemma4": 43399,
+  "llama3": 50182,
+  "llama4_muse": 42934,
+  "deepseek_v4": 47497,
+  "qwen3": 49548,
+  "qwen35": 48444,
+  "mistral_tekken": 41925
+ },
+ "est_Latn": {
+  "gemma4": 43719,
+  "llama3": 50488,
+  "llama4_muse": 42256,
+  "deepseek_v4": 50058,
+  "qwen3": 51216,
+  "qwen35": 46098,
+  "mistral_tekken": 44610
+ },
+ "eus_Latn": {
+  "gemma4": 46511,
+  "llama3": 50578,
+  "llama4_muse": 46407,
+  "deepseek_v4": 46971,
+  "qwen3": 51557,
+  "qwen35": 49398,
+  "mistral_tekken": 42557
+ },
+ "ewe_Latn": {
+  "gemma4": 60301,
+  "llama3": 71706,
+  "llama4_muse": 62338,
+  "deepseek_v4": 67481,
+  "qwen3": 64991,
+  "qwen35": 73788,
+  "mistral_tekken": 73069
+ },
+ "fao_Latn": {
+  "gemma4": 51505,
+  "llama3": 55488,
+  "llama4_muse": 50402,
+  "deepseek_v4": 55513,
+  "qwen3": 56630,
+  "qwen35": 52548,
+  "mistral_tekken": 52239
+ },
+ "fij_Latn": {
+  "gemma4": 53357,
+  "llama3": 58316,
+  "llama4_muse": 53524,
+  "deepseek_v4": 57462,
+  "qwen3": 59143,
+  "qwen35": 57163,
+  "mistral_tekken": 57304
+ },
+ "fin_Latn": {
+  "gemma4": 46201,
+  "llama3": 53948,
+  "llama4_muse": 43391,
+  "deepseek_v4": 50519,
+  "qwen3": 54566,
+  "qwen35": 46266,
+  "mistral_tekken": 45939
+ },
+ "fon_Latn": {
+  "gemma4": 72820,
+  "llama3": 98626,
+  "llama4_muse": 78008,
+  "deepseek_v4": 86124,
+  "qwen3": 79210,
+  "qwen35": 96093,
+  "mistral_tekken": 99767
+ },
+ "fra_Latn": {
+  "gemma4": 39290,
+  "llama3": 43527,
+  "llama4_muse": 36980,
+  "deepseek_v4": 41839,
+  "qwen3": 43729,
+  "qwen35": 39447,
+  "mistral_tekken": 36800
+ },
+ "fur_Latn": {
+  "gemma4": 47342,
+  "llama3": 49725,
+  "llama4_muse": 46029,
+  "deepseek_v4": 49622,
+  "qwen3": 50644,
+  "qwen35": 47889,
+  "mistral_tekken": 47814
+ },
+ "fuv_Latn": {
+  "gemma4": 45711,
+  "llama3": 49723,
+  "llama4_muse": 44595,
+  "deepseek_v4": 49696,
+  "qwen3": 48401,
+  "qwen35": 49871,
+  "mistral_tekken": 48331
+ },
+ "gaz_Latn": {
+  "gemma4": 58644,
+  "llama3": 62509,
+  "llama4_muse": 58317,
+  "deepseek_v4": 62785,
+  "qwen3": 63322,
+  "qwen35": 61065,
+  "mistral_tekken": 61698
+ },
+ "gla_Latn": {
+  "gemma4": 60637,
+  "llama3": 65169,
+  "llama4_muse": 58156,
+  "deepseek_v4": 65534,
+  "qwen3": 65679,
+  "qwen35": 64162,
+  "mistral_tekken": 64270
+ },
+ "gle_Latn": {
+  "gemma4": 57111,
+  "llama3": 61821,
+  "llama4_muse": 55145,
+  "deepseek_v4": 62356,
+  "qwen3": 62985,
+  "qwen35": 60701,
+  "mistral_tekken": 60361
+ },
+ "glg_Latn": {
+  "gemma4": 37723,
+  "llama3": 42349,
+  "llama4_muse": 36205,
+  "deepseek_v4": 41222,
+  "qwen3": 42652,
+  "qwen35": 38565,
+  "mistral_tekken": 36800
+ },
+ "grn_Latn": {
+  "gemma4": 53514,
+  "llama3": 56558,
+  "llama4_muse": 51182,
+  "deepseek_v4": 55776,
+  "qwen3": 57632,
+  "qwen35": 54259,
+  "mistral_tekken": 54487
+ },
+ "guj_Gujr": {
+  "gemma4": 51454,
+  "llama3": 208291,
+  "llama4_muse": 67939,
+  "deepseek_v4": 104415,
+  "qwen3": 186132,
+  "qwen35": 85609,
+  "mistral_tekken": 75782
+ },
+ "hat_Latn": {
+  "gemma4": 42585,
+  "llama3": 46093,
+  "llama4_muse": 41935,
+  "deepseek_v4": 45544,
+  "qwen3": 47486,
+  "qwen35": 45364,
+  "mistral_tekken": 44468
+ },
+ "hau_Latn": {
+  "gemma4": 47900,
+  "llama3": 53585,
+  "llama4_muse": 46721,
+  "deepseek_v4": 52568,
+  "qwen3": 53711,
+  "qwen35": 52837,
+  "mistral_tekken": 52778
+ },
+ "heb_Hebr": {
+  "gemma4": 48006,
+  "llama3": 99039,
+  "llama4_muse": 46978,
+  "deepseek_v4": 47849,
+  "qwen3": 40716,
+  "qwen35": 51280,
+  "mistral_tekken": 45411
+ },
+ "hin_Deva": {
+  "gemma4": 36548,
+  "llama3": 68644,
+  "llama4_muse": 44668,
+  "deepseek_v4": 75599,
+  "qwen3": 122288,
+  "qwen35": 56369,
+  "mistral_tekken": 50027
+ },
+ "hne_Deva": {
+  "gemma4": 41371,
+  "llama3": 67298,
+  "llama4_muse": 50979,
+  "deepseek_v4": 78706,
+  "qwen3": 117328,
+  "qwen35": 62098,
+  "mistral_tekken": 56499
+ },
+ "hrv_Latn": {
+  "gemma4": 41223,
+  "llama3": 48120,
+  "llama4_muse": 41740,
+  "deepseek_v4": 48509,
+  "qwen3": 50578,
+  "qwen35": 43573,
+  "mistral_tekken": 41789
+ },
+ "hun_Latn": {
+  "gemma4": 46562,
+  "llama3": 57476,
+  "llama4_muse": 42343,
+  "deepseek_v4": 53754,
+  "qwen3": 58598,
+  "qwen35": 46614,
+  "mistral_tekken": 44830
+ },
+ "hye_Armn": {
+  "gemma4": 78029,
+  "llama3": 235281,
+  "llama4_muse": 129113,
+  "deepseek_v4": 81479,
+  "qwen3": 145926,
+  "qwen35": 101179,
+  "mistral_tekken": 53295
+ },
+ "ibo_Latn": {
+  "gemma4": 59759,
+  "llama3": 65227,
+  "llama4_muse": 55362,
+  "deepseek_v4": 65449,
+  "qwen3": 65863,
+  "qwen35": 65505,
+  "mistral_tekken": 66604
+ },
+ "ilo_Latn": {
+  "gemma4": 51439,
+  "llama3": 55363,
+  "llama4_muse": 50445,
+  "deepseek_v4": 54899,
+  "qwen3": 56144,
+  "qwen35": 52972,
+  "mistral_tekken": 54578
+ },
+ "ind_Latn": {
+  "gemma4": 32291,
+  "llama3": 41878,
+  "llama4_muse": 30679,
+  "deepseek_v4": 36482,
+  "qwen3": 42620,
+  "qwen35": 31075,
+  "mistral_tekken": 36797
+ },
+ "isl_Latn": {
+  "gemma4": 51436,
+  "llama3": 56866,
+  "llama4_muse": 49312,
+  "deepseek_v4": 56883,
+  "qwen3": 57926,
+  "qwen35": 52036,
+  "mistral_tekken": 52412
+ },
+ "ita_Latn": {
+  "gemma4": 38324,
+  "llama3": 44516,
+  "llama4_muse": 36657,
+  "deepseek_v4": 41744,
+  "qwen3": 44910,
+  "qwen35": 37512,
+  "mistral_tekken": 38803
+ },
+ "jav_Latn": {
+  "gemma4": 41053,
+  "llama3": 46516,
+  "llama4_muse": 39581,
+  "deepseek_v4": 45038,
+  "qwen3": 47430,
+  "qwen35": 42383,
+  "mistral_tekken": 45362
+ },
+ "jpn_Jpan": {
+  "gemma4": 33908,
+  "llama3": 41054,
+  "llama4_muse": 35319,
+  "deepseek_v4": 38442,
+  "qwen3": 38753,
+  "qwen35": 33025,
+  "mistral_tekken": 43666
+ },
+ "kab_Latn": {
+  "gemma4": 57422,
+  "llama3": 64759,
+  "llama4_muse": 58549,
+  "deepseek_v4": 58197,
+  "qwen3": 58916,
+  "qwen35": 66195,
+  "mistral_tekken": 64018
+ },
+ "kac_Latn": {
+  "gemma4": 58969,
+  "llama3": 63990,
+  "llama4_muse": 60384,
+  "deepseek_v4": 64386,
+  "qwen3": 64967,
+  "qwen35": 62264,
+  "mistral_tekken": 63675
+ },
+ "kam_Latn": {
+  "gemma4": 51411,
+  "llama3": 54366,
+  "llama4_muse": 50439,
+  "deepseek_v4": 54609,
+  "qwen3": 54838,
+  "qwen35": 53016,
+  "mistral_tekken": 53709
+ },
+ "kan_Knda": {
+  "gemma4": 53262,
+  "llama3": 240751,
+  "llama4_muse": 66857,
+  "deepseek_v4": 99726,
+  "qwen3": 191213,
+  "qwen35": 86574,
+  "mistral_tekken": 61571
+ },
+ "kas_Arab": {
+  "gemma4": 64963,
+  "llama3": 90489,
+  "llama4_muse": 76125,
+  "deepseek_v4": 83421,
+  "qwen3": 96719,
+  "qwen35": 78927,
+  "mistral_tekken": 72752
+ },
+ "kas_Deva": {
+  "gemma4": 53586,
+  "llama3": 72036,
+  "llama4_muse": 64779,
+  "deepseek_v4": 86737,
+  "qwen3": 121594,
+  "qwen35": 72053,
+  "mistral_tekken": 68331
+ },
+ "kat_Geor": {
+  "gemma4": 63231,
+  "llama3": 265070,
+  "llama4_muse": 59567,
+  "deepseek_v4": 105840,
+  "qwen3": 143360,
+  "qwen35": 82234,
+  "mistral_tekken": 66579
+ },
+ "kaz_Cyrl": {
+  "gemma4": 56274,
+  "llama3": 83846,
+  "llama4_muse": 49457,
+  "deepseek_v4": 71823,
+  "qwen3": 83189,
+  "qwen35": 61500,
+  "mistral_tekken": 57087
+ },
+ "kbp_Latn": {
+  "gemma4": 87727,
+  "llama3": 127587,
+  "llama4_muse": 107042,
+  "deepseek_v4": 108863,
+  "qwen3": 91792,
+  "qwen35": 128077,
+  "mistral_tekken": 125681
+ },
+ "kea_Latn": {
+  "gemma4": 43478,
+  "llama3": 45880,
+  "llama4_muse": 41976,
+  "deepseek_v4": 44854,
+  "qwen3": 47130,
+  "qwen35": 43994,
+  "mistral_tekken": 43486
+ },
+ "khk_Cyrl": {
+  "gemma4": 64069,
+  "llama3": 87851,
+  "llama4_muse": 51751,
+  "deepseek_v4": 79466,
+  "qwen3": 85075,
+  "qwen35": 67961,
+  "mistral_tekken": 65903
+ },
+ "khm_Khmr": {
+  "gemma4": 75137,
+  "llama3": 237876,
+  "llama4_muse": 86324,
+  "deepseek_v4": 184592,
+  "qwen3": 179688,
+  "qwen35": 144251,
+  "mistral_tekken": 410162
+ },
+ "kik_Latn": {
+  "gemma4": 69482,
+  "llama3": 72791,
+  "llama4_muse": 69523,
+  "deepseek_v4": 73320,
+  "qwen3": 72723,
+  "qwen35": 69770,
+  "mistral_tekken": 72339
+ },
+ "kin_Latn": {
+  "gemma4": 54330,
+  "llama3": 57448,
+  "llama4_muse": 53699,
+  "deepseek_v4": 57472,
+  "qwen3": 58270,
+  "qwen35": 56687,
+  "mistral_tekken": 56398
+ },
+ "kir_Cyrl": {
+  "gemma4": 53676,
+  "llama3": 78819,
+  "llama4_muse": 54151,
+  "deepseek_v4": 69842,
+  "qwen3": 76013,
+  "qwen35": 63734,
+  "mistral_tekken": 60657
+ },
+ "kmb_Latn": {
+  "gemma4": 52083,
+  "llama3": 57254,
+  "llama4_muse": 52112,
+  "deepseek_v4": 56609,
+  "qwen3": 58263,
+  "qwen35": 55442,
+  "mistral_tekken": 55266
+ },
+ "kmr_Latn": {
+  "gemma4": 54483,
+  "llama3": 58654,
+  "llama4_muse": 53952,
+  "deepseek_v4": 58564,
+  "qwen3": 59691,
+  "qwen35": 56759,
+  "mistral_tekken": 56370
+ },
+ "knc_Arab": {
+  "gemma4": 66848,
+  "llama3": 72291,
+  "llama4_muse": 69765,
+  "deepseek_v4": 73823,
+  "qwen3": 87623,
+  "qwen35": 66871,
+  "mistral_tekken": 69977
+ },
+ "knc_Latn": {
+  "gemma4": 55316,
+  "llama3": 63630,
+  "llama4_muse": 58407,
+  "deepseek_v4": 62417,
+  "qwen3": 59745,
+  "qwen35": 61737,
+  "mistral_tekken": 61354
+ },
+ "kon_Latn": {
+  "gemma4": 50855,
+  "llama3": 53555,
+  "llama4_muse": 49846,
+  "deepseek_v4": 54181,
+  "qwen3": 54554,
+  "qwen35": 51466,
+  "mistral_tekken": 52814
+ },
+ "kor_Hang": {
+  "gemma4": 38279,
+  "llama3": 40446,
+  "llama4_muse": 34240,
+  "deepseek_v4": 44429,
+  "qwen3": 45027,
+  "qwen35": 34902,
+  "mistral_tekken": 35562
+ },
+ "lao_Laoo": {
+  "gemma4": 72040,
+  "llama3": 238911,
+  "llama4_muse": 87827,
+  "deepseek_v4": 215641,
+  "qwen3": 157244,
+  "qwen35": 132796,
+  "mistral_tekken": 352262
+ },
+ "lij_Latn": {
+  "gemma4": 51879,
+  "llama3": 53455,
+  "llama4_muse": 49048,
+  "deepseek_v4": 53386,
+  "qwen3": 53961,
+  "qwen35": 51378,
+  "mistral_tekken": 50669
+ },
+ "lim_Latn": {
+  "gemma4": 46022,
+  "llama3": 48940,
+  "llama4_muse": 44496,
+  "deepseek_v4": 48000,
+  "qwen3": 49594,
+  "qwen35": 46823,
+  "mistral_tekken": 47108
+ },
+ "lin_Latn": {
+  "gemma4": 47773,
+  "llama3": 50557,
+  "llama4_muse": 48153,
+  "deepseek_v4": 50454,
+  "qwen3": 51291,
+  "qwen35": 50253,
+  "mistral_tekken": 49872
+ },
+ "lit_Latn": {
+  "gemma4": 46371,
+  "llama3": 58317,
+  "llama4_muse": 43612,
+  "deepseek_v4": 53002,
+  "qwen3": 56438,
+  "qwen35": 47106,
+  "mistral_tekken": 48147
+ },
+ "lmo_Latn": {
+  "gemma4": 52624,
+  "llama3": 54819,
+  "llama4_muse": 50904,
+  "deepseek_v4": 54680,
+  "qwen3": 55384,
+  "qwen35": 53086,
+  "mistral_tekken": 52386
+ },
+ "ltg_Latn": {
+  "gemma4": 52514,
+  "llama3": 58436,
+  "llama4_muse": 50484,
+  "deepseek_v4": 57166,
+  "qwen3": 59089,
+  "qwen35": 53520,
+  "mistral_tekken": 53645
+ },
+ "ltz_Latn": {
+  "gemma4": 50163,
+  "llama3": 53537,
+  "llama4_muse": 49421,
+  "deepseek_v4": 52735,
+  "qwen3": 54185,
+  "qwen35": 51072,
+  "mistral_tekken": 51142
+ },
+ "lua_Latn": {
+  "gemma4": 48311,
+  "llama3": 52426,
+  "llama4_muse": 48321,
+  "deepseek_v4": 51928,
+  "qwen3": 53457,
+  "qwen35": 50878,
+  "mistral_tekken": 51310
+ },
+ "lug_Latn": {
+  "gemma4": 50459,
+  "llama3": 52782,
+  "llama4_muse": 49702,
+  "deepseek_v4": 52710,
+  "qwen3": 53805,
+  "qwen35": 52301,
+  "mistral_tekken": 52158
+ },
+ "luo_Latn": {
+  "gemma4": 47539,
+  "llama3": 49307,
+  "llama4_muse": 46742,
+  "deepseek_v4": 49374,
+  "qwen3": 49956,
+  "qwen35": 48955,
+  "mistral_tekken": 49087
+ },
+ "lus_Latn": {
+  "gemma4": 49947,
+  "llama3": 52837,
+  "llama4_muse": 50266,
+  "deepseek_v4": 53301,
+  "qwen3": 54343,
+  "qwen35": 52481,
+  "mistral_tekken": 52636
+ },
+ "lvs_Latn": {
+  "gemma4": 52125,
+  "llama3": 62642,
+  "llama4_muse": 46695,
+  "deepseek_v4": 60128,
+  "qwen3": 62923,
+  "qwen35": 52812,
+  "mistral_tekken": 53218
+ },
+ "mag_Deva": {
+  "gemma4": 41064,
+  "llama3": 69567,
+  "llama4_muse": 50469,
+  "deepseek_v4": 78006,
+  "qwen3": 116709,
+  "qwen35": 62041,
+  "mistral_tekken": 56864
+ },
+ "mai_Deva": {
+  "gemma4": 45457,
+  "llama3": 70334,
+  "llama4_muse": 55581,
+  "deepseek_v4": 84418,
+  "qwen3": 122119,
+  "qwen35": 67791,
+  "mistral_tekken": 62924
+ },
+ "mal_Mlym": {
+  "gemma4": 51124,
+  "llama3": 242791,
+  "llama4_muse": 74807,
+  "deepseek_v4": 119406,
+  "qwen3": 199592,
+  "qwen35": 84811,
+  "mistral_tekken": 71316
+ },
+ "mar_Deva": {
+  "gemma4": 39027,
+  "llama3": 76641,
+  "llama4_muse": 51620,
+  "deepseek_v4": 81174,
+  "qwen3": 127669,
+  "qwen35": 64172,
+  "mistral_tekken": 59986
+ },
+ "min_Arab": {
+  "gemma4": 64947,
+  "llama3": 79315,
+  "llama4_muse": 75353,
+  "deepseek_v4": 76557,
+  "qwen3": 76816,
+  "qwen35": 76509,
+  "mistral_tekken": 71440
+ },
+ "min_Latn": {
+  "gemma4": 43054,
+  "llama3": 47919,
+  "llama4_muse": 42088,
+  "deepseek_v4": 45409,
+  "qwen3": 48807,
+  "qwen35": 43549,
+  "mistral_tekken": 45019
+ },
+ "mkd_Cyrl": {
+  "gemma4": 49318,
+  "llama3": 57798,
+  "llama4_muse": 45367,
+  "deepseek_v4": 54109,
+  "qwen3": 62767,
+  "qwen35": 50985,
+  "mistral_tekken": 45716
+ },
+ "mlt_Latn": {
+  "gemma4": 59734,
+  "llama3": 65216,
+  "llama4_muse": 61849,
+  "deepseek_v4": 62737,
+  "qwen3": 61906,
+  "qwen35": 61977,
+  "mistral_tekken": 64410
+ },
+ "mni_Beng": {
+  "gemma4": 69068,
+  "llama3": 181233,
+  "llama4_muse": 91149,
+  "deepseek_v4": 88673,
+  "qwen3": 155881,
+  "qwen35": 93282,
+  "mistral_tekken": 94270
+ },
+ "mos_Latn": {
+  "gemma4": 55122,
+  "llama3": 58582,
+  "llama4_muse": 55701,
+  "deepseek_v4": 58448,
+  "qwen3": 56331,
+  "qwen35": 57770,
+  "mistral_tekken": 58037
+ },
+ "mri_Latn": {
+  "gemma4": 56398,
+  "llama3": 63652,
+  "llama4_muse": 56753,
+  "deepseek_v4": 61974,
+  "qwen3": 64576,
+  "qwen35": 60300,
+  "mistral_tekken": 60794
+ },
+ "mya_Mymr": {
+  "gemma4": 66306,
+  "llama3": 316730,
+  "llama4_muse": 85307,
+  "deepseek_v4": 144243,
+  "qwen3": 247546,
+  "qwen35": 95366,
+  "mistral_tekken": 90406
+ },
+ "nld_Latn": {
+  "gemma4": 38520,
+  "llama3": 43442,
+  "llama4_muse": 36014,
+  "deepseek_v4": 40481,
+  "qwen3": 43941,
+  "qwen35": 38990,
+  "mistral_tekken": 39294
+ },
+ "nno_Latn": {
+  "gemma4": 41036,
+  "llama3": 44340,
+  "llama4_muse": 39324,
+  "deepseek_v4": 43900,
+  "qwen3": 45042,
+  "qwen35": 41449,
+  "mistral_tekken": 41001
+ },
+ "nob_Latn": {
+  "gemma4": 38905,
+  "llama3": 42250,
+  "llama4_muse": 37235,
+  "deepseek_v4": 41881,
+  "qwen3": 42917,
+  "qwen35": 39118,
+  "mistral_tekken": 39359
+ },
+ "npi_Deva": {
+  "gemma4": 42460,
+  "llama3": 70393,
+  "llama4_muse": 49453,
+  "deepseek_v4": 80252,
+  "qwen3": 122951,
+  "qwen35": 61639,
+  "mistral_tekken": 59261
+ },
+ "nso_Latn": {
+  "gemma4": 55023,
+  "llama3": 58329,
+  "llama4_muse": 54341,
+  "deepseek_v4": 57437,
+  "qwen3": 59823,
+  "qwen35": 56956,
+  "mistral_tekken": 57251
+ },
+ "nus_Latn": {
+  "gemma4": 80670,
+  "llama3": 108381,
+  "llama4_muse": 88999,
+  "deepseek_v4": 92778,
+  "qwen3": 93688,
+  "qwen35": 107253,
+  "mistral_tekken": 105525
+ },
+ "nya_Latn": {
+  "gemma4": 51571,
+  "llama3": 55771,
+  "llama4_muse": 49444,
+  "deepseek_v4": 55935,
+  "qwen3": 57008,
+  "qwen35": 55299,
+  "mistral_tekken": 55148
+ },
+ "oci_Latn": {
+  "gemma4": 46546,
+  "llama3": 49504,
+  "llama4_muse": 45348,
+  "deepseek_v4": 48307,
+  "qwen3": 50032,
+  "qwen35": 47506,
+  "mistral_tekken": 45774
+ },
+ "ory_Orya": {
+  "gemma4": 96210,
+  "llama3": 330522,
+  "llama4_muse": 227862,
+  "deepseek_v4": 149995,
+  "qwen3": 268849,
+  "qwen35": 107908,
+  "mistral_tekken": 358074
+ },
+ "pag_Latn": {
+  "gemma4": 40333,
+  "llama3": 41897,
+  "llama4_muse": 39378,
+  "deepseek_v4": 41074,
+  "qwen3": 42691,
+  "qwen35": 41607,
+  "mistral_tekken": 41298
+ },
+ "pan_Guru": {
+  "gemma4": 74056,
+  "llama3": 212283,
+  "llama4_muse": 84732,
+  "deepseek_v4": 121029,
+  "qwen3": 201968,
+  "qwen35": 106142,
+  "mistral_tekken": 82580
+ },
+ "pap_Latn": {
+  "gemma4": 44320,
+  "llama3": 47068,
+  "llama4_muse": 43570,
+  "deepseek_v4": 46417,
+  "qwen3": 47782,
+  "qwen35": 45546,
+  "mistral_tekken": 44841
+ },
+ "pbt_Arab": {
+  "gemma4": 51004,
+  "llama3": 73029,
+  "llama4_muse": 54882,
+  "deepseek_v4": 68326,
+  "qwen3": 77432,
+  "qwen35": 65161,
+  "mistral_tekken": 55140
+ },
+ "pes_Arab": {
+  "gemma4": 40515,
+  "llama3": 41382,
+  "llama4_muse": 40367,
+  "deepseek_v4": 48363,
+  "qwen3": 71211,
+  "qwen35": 44878,
+  "mistral_tekken": 40020
+ },
+ "plt_Latn": {
+  "gemma4": 56918,
+  "llama3": 60534,
+  "llama4_muse": 55295,
+  "deepseek_v4": 58780,
+  "qwen3": 61516,
+  "qwen35": 59305,
+  "mistral_tekken": 58903
+ },
+ "pol_Latn": {
+  "gemma4": 41863,
+  "llama3": 51379,
+  "llama4_muse": 37773,
+  "deepseek_v4": 45548,
+  "qwen3": 48784,
+  "qwen35": 42655,
+  "mistral_tekken": 43847
+ },
+ "por_Latn": {
+  "gemma4": 35103,
+  "llama3": 40087,
+  "llama4_muse": 33136,
+  "deepseek_v4": 38483,
+  "qwen3": 40130,
+  "qwen35": 35100,
+  "mistral_tekken": 35516
+ },
+ "prs_Arab": {
+  "gemma4": 39720,
+  "llama3": 40599,
+  "llama4_muse": 39680,
+  "deepseek_v4": 43928,
+  "qwen3": 68596,
+  "qwen35": 42050,
+  "mistral_tekken": 39573
+ },
+ "quy_Latn": {
+  "gemma4": 51188,
+  "llama3": 56190,
+  "llama4_muse": 50592,
+  "deepseek_v4": 55430,
+  "qwen3": 56984,
+  "qwen35": 53599,
+  "mistral_tekken": 54209
+ },
+ "ron_Latn": {
+  "gemma4": 43747,
+  "llama3": 50785,
+  "llama4_muse": 39757,
+  "deepseek_v4": 50328,
+  "qwen3": 51399,
+  "qwen35": 44398,
+  "mistral_tekken": 44775
+ },
+ "run_Latn": {
+  "gemma4": 54569,
+  "llama3": 57651,
+  "llama4_muse": 53830,
+  "deepseek_v4": 57496,
+  "qwen3": 58517,
+  "qwen35": 56952,
+  "mistral_tekken": 56475
+ },
+ "rus_Cyrl": {
+  "gemma4": 38034,
+  "llama3": 43921,
+  "llama4_muse": 33215,
+  "deepseek_v4": 42791,
+  "qwen3": 48476,
+  "qwen35": 38537,
+  "mistral_tekken": 41858
+ },
+ "sag_Latn": {
+  "gemma4": 51678,
+  "llama3": 55952,
+  "llama4_muse": 51848,
+  "deepseek_v4": 55563,
+  "qwen3": 56448,
+  "qwen35": 54230,
+  "mistral_tekken": 54393
+ },
+ "san_Deva": {
+  "gemma4": 49104,
+  "llama3": 71697,
+  "llama4_muse": 59161,
+  "deepseek_v4": 77340,
+  "qwen3": 125417,
+  "qwen35": 72667,
+  "mistral_tekken": 63764
+ },
+ "sat_Olck": {
+  "gemma4": 143399,
+  "llama3": 347209,
+  "llama4_muse": 255111,
+  "deepseek_v4": 174538,
+  "qwen3": 247355,
+  "qwen35": 347248,
+  "mistral_tekken": 347220
+ },
+ "scn_Latn": {
+  "gemma4": 49839,
+  "llama3": 53794,
+  "llama4_muse": 48723,
+  "deepseek_v4": 52462,
+  "qwen3": 53833,
+  "qwen35": 51165,
+  "mistral_tekken": 51170
+ },
+ "shn_Mymr": {
+  "gemma4": 140320,
+  "llama3": 402928,
+  "llama4_muse": 236383,
+  "deepseek_v4": 216441,
+  "qwen3": 289132,
+  "qwen35": 225009,
+  "mistral_tekken": 258493
+ },
+ "sin_Sinh": {
+  "gemma4": 63077,
+  "llama3": 234506,
+  "llama4_muse": 73404,
+  "deepseek_v4": 123647,
+  "qwen3": 189958,
+  "qwen35": 103127,
+  "mistral_tekken": 342774
+ },
+ "slk_Latn": {
+  "gemma4": 44844,
+  "llama3": 50104,
+  "llama4_muse": 42300,
+  "deepseek_v4": 51543,
+  "qwen3": 57307,
+  "qwen35": 46137,
+  "mistral_tekken": 46498
+ },
+ "slv_Latn": {
+  "gemma4": 43553,
+  "llama3": 48844,
+  "llama4_muse": 42484,
+  "deepseek_v4": 49055,
+  "qwen3": 51560,
+  "qwen35": 45211,
+  "mistral_tekken": 43403
+ },
+ "smo_Latn": {
+  "gemma4": 58981,
+  "llama3": 61013,
+  "llama4_muse": 56496,
+  "deepseek_v4": 61534,
+  "qwen3": 62149,
+  "qwen35": 60242,
+  "mistral_tekken": 60057
+ },
+ "sna_Latn": {
+  "gemma4": 51807,
+  "llama3": 56448,
+  "llama4_muse": 50682,
+  "deepseek_v4": 56461,
+  "qwen3": 58373,
+  "qwen35": 55547,
+  "mistral_tekken": 55273
+ },
+ "snd_Arab": {
+  "gemma4": 55927,
+  "llama3": 77702,
+  "llama4_muse": 56483,
+  "deepseek_v4": 78139,
+  "qwen3": 78593,
+  "qwen35": 72917,
+  "mistral_tekken": 69482
+ },
+ "som_Latn": {
+  "gemma4": 53385,
+  "llama3": 59438,
+  "llama4_muse": 52822,
+  "deepseek_v4": 60295,
+  "qwen3": 60391,
+  "qwen35": 58408,
+  "mistral_tekken": 59913
+ },
+ "sot_Latn": {
+  "gemma4": 55577,
+  "llama3": 59538,
+  "llama4_muse": 54296,
+  "deepseek_v4": 59292,
+  "qwen3": 60613,
+  "qwen35": 59263,
+  "mistral_tekken": 59279
+ },
+ "spa_Latn": {
+  "gemma4": 36178,
+  "llama3": 41887,
+  "llama4_muse": 35113,
+  "deepseek_v4": 40435,
+  "qwen3": 42079,
+  "qwen35": 37392,
+  "mistral_tekken": 36701
+ },
+ "srd_Latn": {
+  "gemma4": 49930,
+  "llama3": 53303,
+  "llama4_muse": 48601,
+  "deepseek_v4": 52861,
+  "qwen3": 54325,
+  "qwen35": 51131,
+  "mistral_tekken": 50355
+ },
+ "srp_Cyrl": {
+  "gemma4": 47945,
+  "llama3": 59338,
+  "llama4_muse": 45224,
+  "deepseek_v4": 51355,
+  "qwen3": 64464,
+  "qwen35": 50682,
+  "mistral_tekken": 45681
+ },
+ "ssw_Latn": {
+  "gemma4": 53631,
+  "llama3": 58293,
+  "llama4_muse": 52758,
+  "deepseek_v4": 57366,
+  "qwen3": 59278,
+  "qwen35": 57632,
+  "mistral_tekken": 56738
+ },
+ "sun_Latn": {
+  "gemma4": 41777,
+  "llama3": 48983,
+  "llama4_muse": 42393,
+  "deepseek_v4": 46829,
+  "qwen3": 49749,
+  "qwen35": 44069,
+  "mistral_tekken": 46729
+ },
+ "swe_Latn": {
+  "gemma4": 38314,
+  "llama3": 42634,
+  "llama4_muse": 35701,
+  "deepseek_v4": 41918,
+  "qwen3": 43250,
+  "qwen35": 39212,
+  "mistral_tekken": 39126
+ },
+ "swh_Latn": {
+  "gemma4": 45446,
+  "llama3": 52472,
+  "llama4_muse": 45253,
+  "deepseek_v4": 52483,
+  "qwen3": 53496,
+  "qwen35": 51146,
+  "mistral_tekken": 50571
+ },
+ "szl_Latn": {
+  "gemma4": 52162,
+  "llama3": 57808,
+  "llama4_muse": 50527,
+  "deepseek_v4": 54805,
+  "qwen3": 57834,
+  "qwen35": 53929,
+  "mistral_tekken": 54257
+ },
+ "tam_Taml": {
+  "gemma4": 40841,
+  "llama3": 207778,
+  "llama4_muse": 101402,
+  "deepseek_v4": 83020,
+  "qwen3": 168834,
+  "qwen35": 72229,
+  "mistral_tekken": 60619
+ },
+ "taq_Latn": {
+  "gemma4": 52463,
+  "llama3": 59238,
+  "llama4_muse": 54519,
+  "deepseek_v4": 56103,
+  "qwen3": 54756,
+  "qwen35": 59129,
+  "mistral_tekken": 58202
+ },
+ "taq_Tfng": {
+  "gemma4": 141410,
+  "llama3": 274450,
+  "llama4_muse": 207435,
+  "deepseek_v4": 274446,
+  "qwen3": 146009,
+  "qwen35": 275916,
+  "mistral_tekken": 272479
+ },
+ "tat_Cyrl": {
+  "gemma4": 55165,
+  "llama3": 84553,
+  "llama4_muse": 57835,
+  "deepseek_v4": 67321,
+  "qwen3": 79235,
+  "qwen35": 64717,
+  "mistral_tekken": 58734
+ },
+ "tel_Telu": {
+  "gemma4": 49175,
+  "llama3": 225290,
+  "llama4_muse": 76520,
+  "deepseek_v4": 101183,
+  "qwen3": 193201,
+  "qwen35": 79421,
+  "mistral_tekken": 62911
+ },
+ "tgk_Cyrl": {
+  "gemma4": 63244,
+  "llama3": 79729,
+  "llama4_muse": 61201,
+  "deepseek_v4": 75158,
+  "qwen3": 80008,
+  "qwen35": 67321,
+  "mistral_tekken": 74681
+ },
+ "tgl_Latn": {
+  "gemma4": 50562,
+  "llama3": 55345,
+  "llama4_muse": 48235,
+  "deepseek_v4": 54282,
+  "qwen3": 56465,
+  "qwen35": 53866,
+  "mistral_tekken": 53929
+ },
+ "tha_Thai": {
+  "gemma4": 44657,
+  "llama3": 60228,
+  "llama4_muse": 43025,
+  "deepseek_v4": 48823,
+  "qwen3": 71163,
+  "qwen35": 34078,
+  "mistral_tekken": 67015
+ },
+ "tir_Ethi": {
+  "gemma4": 68143,
+  "llama3": 212241,
+  "llama4_muse": 81372,
+  "deepseek_v4": 166485,
+  "qwen3": 115710,
+  "qwen35": 130381,
+  "mistral_tekken": 212602
+ },
+ "tpi_Latn": {
+  "gemma4": 53064,
+  "llama3": 55227,
+  "llama4_muse": 52583,
+  "deepseek_v4": 55329,
+  "qwen3": 55940,
+  "qwen35": 54887,
+  "mistral_tekken": 55071
+ },
+ "tsn_Latn": {
+  "gemma4": 57619,
+  "llama3": 61385,
+  "llama4_muse": 56493,
+  "deepseek_v4": 60924,
+  "qwen3": 61993,
+  "qwen35": 60677,
+  "mistral_tekken": 60527
+ },
+ "tso_Latn": {
+  "gemma4": 57658,
+  "llama3": 60824,
+  "llama4_muse": 56995,
+  "deepseek_v4": 59936,
+  "qwen3": 61788,
+  "qwen35": 60429,
+  "mistral_tekken": 60123
+ },
+ "tuk_Latn": {
+  "gemma4": 56854,
+  "llama3": 58277,
+  "llama4_muse": 55341,
+  "deepseek_v4": 62961,
+  "qwen3": 60700,
+  "qwen35": 57901,
+  "mistral_tekken": 57973
+ },
+ "tum_Latn": {
+  "gemma4": 63296,
+  "llama3": 69504,
+  "llama4_muse": 62146,
+  "deepseek_v4": 69139,
+  "qwen3": 69481,
+  "qwen35": 67679,
+  "mistral_tekken": 67938
+ },
+ "tur_Latn": {
+  "gemma4": 38170,
+  "llama3": 38116,
+  "llama4_muse": 35606,
+  "deepseek_v4": 55188,
+  "qwen3": 44867,
+  "qwen35": 40489,
+  "mistral_tekken": 41531
+ },
+ "twi_Latn": {
+  "gemma4": 53763,
+  "llama3": 67774,
+  "llama4_muse": 55859,
+  "deepseek_v4": 58594,
+  "qwen3": 59191,
+  "qwen35": 67897,
+  "mistral_tekken": 66598
+ },
+ "tzm_Tfng": {
+  "gemma4": 121889,
+  "llama3": 272705,
+  "llama4_muse": 206033,
+  "deepseek_v4": 272703,
+  "qwen3": 138745,
+  "qwen35": 274132,
+  "mistral_tekken": 273172
+ },
+ "uig_Arab": {
+  "gemma4": 79431,
+  "llama3": 119348,
+  "llama4_muse": 84676,
+  "deepseek_v4": 101622,
+  "qwen3": 102369,
+  "qwen35": 97454,
+  "mistral_tekken": 114142
+ },
+ "ukr_Cyrl": {
+  "gemma4": 44669,
+  "llama3": 44662,
+  "llama4_muse": 41619,
+  "deepseek_v4": 58442,
+  "qwen3": 69044,
+  "qwen35": 48843,
+  "mistral_tekken": 48182
+ },
+ "umb_Latn": {
+  "gemma4": 52056,
+  "llama3": 54031,
+  "llama4_muse": 50901,
+  "deepseek_v4": 54458,
+  "qwen3": 55090,
+  "qwen35": 53604,
+  "mistral_tekken": 53509
+ },
+ "urd_Arab": {
+  "gemma4": 42175,
+  "llama3": 84485,
+  "llama4_muse": 51042,
+  "deepseek_v4": 64919,
+  "qwen3": 87937,
+  "qwen35": 55505,
+  "mistral_tekken": 48832
+ },
+ "uzn_Latn": {
+  "gemma4": 52715,
+  "llama3": 57611,
+  "llama4_muse": 46793,
+  "deepseek_v4": 57585,
+  "qwen3": 59273,
+  "qwen35": 57028,
+  "mistral_tekken": 50619
+ },
+ "vec_Latn": {
+  "gemma4": 42992,
+  "llama3": 46151,
+  "llama4_muse": 41489,
+  "deepseek_v4": 45036,
+  "qwen3": 46458,
+  "qwen35": 43241,
+  "mistral_tekken": 43666
+ },
+ "vie_Latn": {
+  "gemma4": 38200,
+  "llama3": 37814,
+  "llama4_muse": 35929,
+  "deepseek_v4": 57290,
+  "qwen3": 39653,
+  "qwen35": 37010,
+  "mistral_tekken": 39808
+ },
+ "war_Latn": {
+  "gemma4": 49494,
+  "llama3": 52555,
+  "llama4_muse": 48728,
+  "deepseek_v4": 50085,
+  "qwen3": 53568,
+  "qwen35": 51887,
+  "mistral_tekken": 51466
+ },
+ "wol_Latn": {
+  "gemma4": 49125,
+  "llama3": 51631,
+  "llama4_muse": 47886,
+  "deepseek_v4": 50906,
+  "qwen3": 52703,
+  "qwen35": 51466,
+  "mistral_tekken": 51871
+ },
+ "xho_Latn": {
+  "gemma4": 52217,
+  "llama3": 55329,
+  "llama4_muse": 50012,
+  "deepseek_v4": 55299,
+  "qwen3": 56191,
+  "qwen35": 55287,
+  "mistral_tekken": 54958
+ },
+ "ydd_Hebr": {
+  "gemma4": 72718,
+  "llama3": 150528,
+  "llama4_muse": 73407,
+  "deepseek_v4": 91808,
+  "qwen3": 75885,
+  "qwen35": 88541,
+  "mistral_tekken": 82392
+ },
+ "yor_Latn": {
+  "gemma4": 66244,
+  "llama3": 73950,
+  "llama4_muse": 67550,
+  "deepseek_v4": 76529,
+  "qwen3": 74234,
+  "qwen35": 72486,
+  "mistral_tekken": 78297
+ },
+ "yue_Hant": {
+  "gemma4": 30464,
+  "llama3": 35712,
+  "llama4_muse": 29894,
+  "deepseek_v4": 27739,
+  "qwen3": 30697,
+  "qwen35": 27707,
+  "mistral_tekken": 39978
+ },
+ "zho_Hans": {
+  "gemma4": 30254,
+  "llama3": 34847,
+  "llama4_muse": 28765,
+  "deepseek_v4": 25399,
+  "qwen3": 27765,
+  "qwen35": 26089,
+  "mistral_tekken": 39055
+ },
+ "zho_Hant": {
+  "gemma4": 31471,
+  "llama3": 36682,
+  "llama4_muse": 30893,
+  "deepseek_v4": 28749,
+  "qwen3": 31699,
+  "qwen35": 28638,
+  "mistral_tekken": 41015
+ },
+ "zsm_Latn": {
+  "gemma4": 33982,
+  "llama3": 43682,
+  "llama4_muse": 32466,
+  "deepseek_v4": 38042,
+  "qwen3": 44436,
+  "qwen35": 33438,
+  "mistral_tekken": 37529
+ },
+ "zul_Latn": {
+  "gemma4": 54570,
+  "llama3": 59421,
+  "llama4_muse": 53102,
+  "deepseek_v4": 59210,
+  "qwen3": 60441,
+  "qwen35": 59189,
+  "mistral_tekken": 58468
+ }
+}

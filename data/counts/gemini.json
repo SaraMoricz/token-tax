@@ -1,0 +1,818 @@
+{
+ "ace_Arab": {
+  "gemma3_per_sentence": 60862,
+  "gemma3": 61873
+ },
+ "ace_Latn": {
+  "gemma3_per_sentence": 49155,
+  "gemma3": 50166
+ },
+ "acm_Arab": {
+  "gemma3_per_sentence": 39580,
+  "gemma3": 40591
+ },
+ "acq_Arab": {
+  "gemma3_per_sentence": 39766,
+  "gemma3": 40777
+ },
+ "aeb_Arab": {
+  "gemma3_per_sentence": 40175,
+  "gemma3": 41186
+ },
+ "afr_Latn": {
+  "gemma3_per_sentence": 41223,
+  "gemma3": 42234
+ },
+ "ajp_Arab": {
+  "gemma3_per_sentence": 37742,
+  "gemma3": 38753
+ },
+ "aka_Latn": {
+  "gemma3_per_sentence": 59731,
+  "gemma3": 60742
+ },
+ "als_Latn": {
+  "gemma3_per_sentence": 52888,
+  "gemma3": 53899
+ },
+ "amh_Ethi": {
+  "gemma3_per_sentence": 52552,
+  "gemma3": 53563
+ },
+ "apc_Arab": {
+  "gemma3_per_sentence": 38305,
+  "gemma3": 39316
+ },
+ "arb_Arab": {
+  "gemma3_per_sentence": 39885,
+  "gemma3": 40896
+ },
+ "arb_Latn": {
+  "gemma3_per_sentence": 62676,
+  "gemma3": 63687
+ },
+ "ars_Arab": {
+  "gemma3_per_sentence": 40013,
+  "gemma3": 41024
+ },
+ "ary_Arab": {
+  "gemma3_per_sentence": 41287,
+  "gemma3": 42298
+ },
+ "arz_Arab": {
+  "gemma3_per_sentence": 38989,
+  "gemma3": 40000
+ },
+ "asm_Beng": {
+  "gemma3_per_sentence": 54385,
+  "gemma3": 55396
+ },
+ "ast_Latn": {
+  "gemma3_per_sentence": 38840,
+  "gemma3": 39851
+ },
+ "awa_Deva": {
+  "gemma3_per_sentence": 39836,
+  "gemma3": 40847
+ },
+ "ayr_Latn": {
+  "gemma3_per_sentence": 54079,
+  "gemma3": 55090
+ },
+ "azb_Arab": {
+  "gemma3_per_sentence": 48093,
+  "gemma3": 49104
+ },
+ "azj_Latn": {
+  "gemma3_per_sentence": 54924,
+  "gemma3": 55935
+ },
+ "bak_Cyrl": {
+  "gemma3_per_sentence": 62765,
+  "gemma3": 63776
+ },
+ "bam_Latn": {
+  "gemma3_per_sentence": 56510,
+  "gemma3": 57521
+ },
+ "ban_Latn": {
+  "gemma3_per_sentence": 42299,
+  "gemma3": 43310
+ },
+ "bel_Cyrl": {
+  "gemma3_per_sentence": 58709,
+  "gemma3": 59720
+ },
+ "bem_Latn": {
+  "gemma3_per_sentence": 54886,
+  "gemma3": 55897
+ },
+ "ben_Beng": {
+  "gemma3_per_sentence": 32836,
+  "gemma3": 33847
+ },
+ "bho_Deva": {
+  "gemma3_per_sentence": 42718,
+  "gemma3": 43729
+ },
+ "bjn_Arab": {
+  "gemma3_per_sentence": 60924,
+  "gemma3": 61935
+ },
+ "bjn_Latn": {
+  "gemma3_per_sentence": 38310,
+  "gemma3": 39321
+ },
+ "bod_Tibt": {
+  "gemma3_per_sentence": 99676,
+  "gemma3": 100687
+ },
+ "bos_Latn": {
+  "gemma3_per_sentence": 40346,
+  "gemma3": 41357
+ },
+ "bug_Latn": {
+  "gemma3_per_sentence": 47661,
+  "gemma3": 48672
+ },
+ "bul_Cyrl": {
+  "gemma3_per_sentence": 43923,
+  "gemma3": 44934
+ },
+ "cat_Latn": {
+  "gemma3_per_sentence": 41861,
+  "gemma3": 42872
+ },
+ "ceb_Latn": {
+  "gemma3_per_sentence": 47981,
+  "gemma3": 48992
+ },
+ "ces_Latn": {
+  "gemma3_per_sentence": 41359,
+  "gemma3": 42370
+ },
+ "cjk_Latn": {
+  "gemma3_per_sentence": 48005,
+  "gemma3": 49016
+ },
+ "ckb_Arab": {
+  "gemma3_per_sentence": 61516,
+  "gemma3": 62527
+ },
+ "crh_Latn": {
+  "gemma3_per_sentence": 47642,
+  "gemma3": 48653
+ },
+ "cym_Latn": {
+  "gemma3_per_sentence": 53689,
+  "gemma3": 54700
+ },
+ "dan_Latn": {
+  "gemma3_per_sentence": 39112,
+  "gemma3": 40123
+ },
+ "deu_Latn": {
+  "gemma3_per_sentence": 36020,
+  "gemma3": 37031
+ },
+ "dik_Latn": {
+  "gemma3_per_sentence": 50983,
+  "gemma3": 51994
+ },
+ "dyu_Latn": {
+  "gemma3_per_sentence": 50126,
+  "gemma3": 51137
+ },
+ "dzo_Tibt": {
+  "gemma3_per_sentence": 114123,
+  "gemma3": 115134
+ },
+ "ell_Grek": {
+  "gemma3_per_sentence": 59330,
+  "gemma3": 60341
+ },
+ "eng_Latn": {
+  "gemma3_per_sentence": 27114,
+  "gemma3": 28125
+ },
+ "epo_Latn": {
+  "gemma3_per_sentence": 42388,
+  "gemma3": 43399
+ },
+ "est_Latn": {
+  "gemma3_per_sentence": 42708,
+  "gemma3": 43719
+ },
+ "eus_Latn": {
+  "gemma3_per_sentence": 45500,
+  "gemma3": 46511
+ },
+ "ewe_Latn": {
+  "gemma3_per_sentence": 59290,
+  "gemma3": 60301
+ },
+ "fao_Latn": {
+  "gemma3_per_sentence": 50494,
+  "gemma3": 51505
+ },
+ "fij_Latn": {
+  "gemma3_per_sentence": 52346,
+  "gemma3": 53357
+ },
+ "fin_Latn": {
+  "gemma3_per_sentence": 45190,
+  "gemma3": 46201
+ },
+ "fon_Latn": {
+  "gemma3_per_sentence": 71809,
+  "gemma3": 72820
+ },
+ "fra_Latn": {
+  "gemma3_per_sentence": 38279,
+  "gemma3": 39290
+ },
+ "fur_Latn": {
+  "gemma3_per_sentence": 46331,
+  "gemma3": 47342
+ },
+ "fuv_Latn": {
+  "gemma3_per_sentence": 44700,
+  "gemma3": 45711
+ },
+ "gaz_Latn": {
+  "gemma3_per_sentence": 57633,
+  "gemma3": 58644
+ },
+ "gla_Latn": {
+  "gemma3_per_sentence": 59626,
+  "gemma3": 60637
+ },
+ "gle_Latn": {
+  "gemma3_per_sentence": 56100,
+  "gemma3": 57111
+ },
+ "glg_Latn": {
+  "gemma3_per_sentence": 36712,
+  "gemma3": 37723
+ },
+ "grn_Latn": {
+  "gemma3_per_sentence": 52503,
+  "gemma3": 53514
+ },
+ "guj_Gujr": {
+  "gemma3_per_sentence": 50443,
+  "gemma3": 51454
+ },
+ "hat_Latn": {
+  "gemma3_per_sentence": 41574,
+  "gemma3": 42585
+ },
+ "hau_Latn": {
+  "gemma3_per_sentence": 46889,
+  "gemma3": 47900
+ },
+ "heb_Hebr": {
+  "gemma3_per_sentence": 46995,
+  "gemma3": 48006
+ },
+ "hin_Deva": {
+  "gemma3_per_sentence": 35537,
+  "gemma3": 36548
+ },
+ "hne_Deva": {
+  "gemma3_per_sentence": 40360,
+  "gemma3": 41371
+ },
+ "hrv_Latn": {
+  "gemma3_per_sentence": 40212,
+  "gemma3": 41223
+ },
+ "hun_Latn": {
+  "gemma3_per_sentence": 45551,
+  "gemma3": 46562
+ },
+ "hye_Armn": {
+  "gemma3_per_sentence": 77016,
+  "gemma3": 78027
+ },
+ "ibo_Latn": {
+  "gemma3_per_sentence": 58748,
+  "gemma3": 59759
+ },
+ "ilo_Latn": {
+  "gemma3_per_sentence": 50428,
+  "gemma3": 51439
+ },
+ "ind_Latn": {
+  "gemma3_per_sentence": 31280,
+  "gemma3": 32291
+ },
+ "isl_Latn": {
+  "gemma3_per_sentence": 50425,
+  "gemma3": 51436
+ },
+ "ita_Latn": {
+  "gemma3_per_sentence": 37313,
+  "gemma3": 38324
+ },
+ "jav_Latn": {
+  "gemma3_per_sentence": 40042,
+  "gemma3": 41053
+ },
+ "jpn_Jpan": {
+  "gemma3_per_sentence": 32897,
+  "gemma3": 33908
+ },
+ "kab_Latn": {
+  "gemma3_per_sentence": 56411,
+  "gemma3": 57422
+ },
+ "kac_Latn": {
+  "gemma3_per_sentence": 57958,
+  "gemma3": 58969
+ },
+ "kam_Latn": {
+  "gemma3_per_sentence": 50400,
+  "gemma3": 51411
+ },
+ "kan_Knda": {
+  "gemma3_per_sentence": 52251,
+  "gemma3": 53262
+ },
+ "kas_Arab": {
+  "gemma3_per_sentence": 63952,
+  "gemma3": 64963
+ },
+ "kas_Deva": {
+  "gemma3_per_sentence": 52575,
+  "gemma3": 53586
+ },
+ "kat_Geor": {
+  "gemma3_per_sentence": 62220,
+  "gemma3": 63231
+ },
+ "kaz_Cyrl": {
+  "gemma3_per_sentence": 55263,
+  "gemma3": 56274
+ },
+ "kbp_Latn": {
+  "gemma3_per_sentence": 86716,
+  "gemma3": 87727
+ },
+ "kea_Latn": {
+  "gemma3_per_sentence": 42467,
+  "gemma3": 43478
+ },
+ "khk_Cyrl": {
+  "gemma3_per_sentence": 63058,
+  "gemma3": 64069
+ },
+ "khm_Khmr": {
+  "gemma3_per_sentence": 74126,
+  "gemma3": 75137
+ },
+ "kik_Latn": {
+  "gemma3_per_sentence": 68471,
+  "gemma3": 69482
+ },
+ "kin_Latn": {
+  "gemma3_per_sentence": 53319,
+  "gemma3": 54330
+ },
+ "kir_Cyrl": {
+  "gemma3_per_sentence": 52665,
+  "gemma3": 53676
+ },
+ "kmb_Latn": {
+  "gemma3_per_sentence": 51072,
+  "gemma3": 52083
+ },
+ "kmr_Latn": {
+  "gemma3_per_sentence": 53472,
+  "gemma3": 54483
+ },
+ "knc_Arab": {
+  "gemma3_per_sentence": 65837,
+  "gemma3": 66848
+ },
+ "knc_Latn": {
+  "gemma3_per_sentence": 54305,
+  "gemma3": 55316
+ },
+ "kon_Latn": {
+  "gemma3_per_sentence": 49844,
+  "gemma3": 50855
+ },
+ "kor_Hang": {
+  "gemma3_per_sentence": 37268,
+  "gemma3": 38279
+ },
+ "lao_Laoo": {
+  "gemma3_per_sentence": 71029,
+  "gemma3": 72040
+ },
+ "lij_Latn": {
+  "gemma3_per_sentence": 50868,
+  "gemma3": 51879
+ },
+ "lim_Latn": {
+  "gemma3_per_sentence": 45011,
+  "gemma3": 46022
+ },
+ "lin_Latn": {
+  "gemma3_per_sentence": 46762,
+  "gemma3": 47773
+ },
+ "lit_Latn": {
+  "gemma3_per_sentence": 45360,
+  "gemma3": 46371
+ },
+ "lmo_Latn": {
+  "gemma3_per_sentence": 51613,
+  "gemma3": 52624
+ },
+ "ltg_Latn": {
+  "gemma3_per_sentence": 51503,
+  "gemma3": 52514
+ },
+ "ltz_Latn": {
+  "gemma3_per_sentence": 49152,
+  "gemma3": 50163
+ },
+ "lua_Latn": {
+  "gemma3_per_sentence": 47300,
+  "gemma3": 48311
+ },
+ "lug_Latn": {
+  "gemma3_per_sentence": 49448,
+  "gemma3": 50459
+ },
+ "luo_Latn": {
+  "gemma3_per_sentence": 46528,
+  "gemma3": 47539
+ },
+ "lus_Latn": {
+  "gemma3_per_sentence": 48936,
+  "gemma3": 49947
+ },
+ "lvs_Latn": {
+  "gemma3_per_sentence": 51114,
+  "gemma3": 52125
+ },
+ "mag_Deva": {
+  "gemma3_per_sentence": 40053,
+  "gemma3": 41064
+ },
+ "mai_Deva": {
+  "gemma3_per_sentence": 44446,
+  "gemma3": 45457
+ },
+ "mal_Mlym": {
+  "gemma3_per_sentence": 50113,
+  "gemma3": 51124
+ },
+ "mar_Deva": {
+  "gemma3_per_sentence": 38016,
+  "gemma3": 39027
+ },
+ "min_Arab": {
+  "gemma3_per_sentence": 63936,
+  "gemma3": 64947
+ },
+ "min_Latn": {
+  "gemma3_per_sentence": 42043,
+  "gemma3": 43054
+ },
+ "mkd_Cyrl": {
+  "gemma3_per_sentence": 48307,
+  "gemma3": 49318
+ },
+ "mlt_Latn": {
+  "gemma3_per_sentence": 58723,
+  "gemma3": 59734
+ },
+ "mni_Beng": {
+  "gemma3_per_sentence": 68057,
+  "gemma3": 69068
+ },
+ "mos_Latn": {
+  "gemma3_per_sentence": 54111,
+  "gemma3": 55122
+ },
+ "mri_Latn": {
+  "gemma3_per_sentence": 55387,
+  "gemma3": 56398
+ },
+ "mya_Mymr": {
+  "gemma3_per_sentence": 65295,
+  "gemma3": 66306
+ },
+ "nld_Latn": {
+  "gemma3_per_sentence": 37509,
+  "gemma3": 38520
+ },
+ "nno_Latn": {
+  "gemma3_per_sentence": 40025,
+  "gemma3": 41036
+ },
+ "nob_Latn": {
+  "gemma3_per_sentence": 37894,
+  "gemma3": 38905
+ },
+ "npi_Deva": {
+  "gemma3_per_sentence": 41449,
+  "gemma3": 42460
+ },
+ "nso_Latn": {
+  "gemma3_per_sentence": 54012,
+  "gemma3": 55023
+ },
+ "nus_Latn": {
+  "gemma3_per_sentence": 79659,
+  "gemma3": 80670
+ },
+ "nya_Latn": {
+  "gemma3_per_sentence": 50560,
+  "gemma3": 51571
+ },
+ "oci_Latn": {
+  "gemma3_per_sentence": 45535,
+  "gemma3": 46546
+ },
+ "ory_Orya": {
+  "gemma3_per_sentence": 95199,
+  "gemma3": 96210
+ },
+ "pag_Latn": {
+  "gemma3_per_sentence": 39322,
+  "gemma3": 40333
+ },
+ "pan_Guru": {
+  "gemma3_per_sentence": 73045,
+  "gemma3": 74056
+ },
+ "pap_Latn": {
+  "gemma3_per_sentence": 43309,
+  "gemma3": 44320
+ },
+ "pbt_Arab": {
+  "gemma3_per_sentence": 49993,
+  "gemma3": 51004
+ },
+ "pes_Arab": {
+  "gemma3_per_sentence": 39504,
+  "gemma3": 40515
+ },
+ "plt_Latn": {
+  "gemma3_per_sentence": 55907,
+  "gemma3": 56918
+ },
+ "pol_Latn": {
+  "gemma3_per_sentence": 40852,
+  "gemma3": 41863
+ },
+ "por_Latn": {
+  "gemma3_per_sentence": 34092,
+  "gemma3": 35103
+ },
+ "prs_Arab": {
+  "gemma3_per_sentence": 38709,
+  "gemma3": 39720
+ },
+ "quy_Latn": {
+  "gemma3_per_sentence": 50177,
+  "gemma3": 51188
+ },
+ "ron_Latn": {
+  "gemma3_per_sentence": 42736,
+  "gemma3": 43747
+ },
+ "run_Latn": {
+  "gemma3_per_sentence": 53558,
+  "gemma3": 54569
+ },
+ "rus_Cyrl": {
+  "gemma3_per_sentence": 37023,
+  "gemma3": 38034
+ },
+ "sag_Latn": {
+  "gemma3_per_sentence": 50667,
+  "gemma3": 51678
+ },
+ "san_Deva": {
+  "gemma3_per_sentence": 48093,
+  "gemma3": 49104
+ },
+ "sat_Olck": {
+  "gemma3_per_sentence": 142388,
+  "gemma3": 143399
+ },
+ "scn_Latn": {
+  "gemma3_per_sentence": 48828,
+  "gemma3": 49839
+ },
+ "shn_Mymr": {
+  "gemma3_per_sentence": 139309,
+  "gemma3": 140320
+ },
+ "sin_Sinh": {
+  "gemma3_per_sentence": 62066,
+  "gemma3": 63077
+ },
+ "slk_Latn": {
+  "gemma3_per_sentence": 43833,
+  "gemma3": 44844
+ },
+ "slv_Latn": {
+  "gemma3_per_sentence": 42542,
+  "gemma3": 43553
+ },
+ "smo_Latn": {
+  "gemma3_per_sentence": 57970,
+  "gemma3": 58981
+ },
+ "sna_Latn": {
+  "gemma3_per_sentence": 50796,
+  "gemma3": 51807
+ },
+ "snd_Arab": {
+  "gemma3_per_sentence": 54916,
+  "gemma3": 55927
+ },
+ "som_Latn": {
+  "gemma3_per_sentence": 52374,
+  "gemma3": 53385
+ },
+ "sot_Latn": {
+  "gemma3_per_sentence": 54566,
+  "gemma3": 55577
+ },
+ "spa_Latn": {
+  "gemma3_per_sentence": 35167,
+  "gemma3": 36178
+ },
+ "srd_Latn": {
+  "gemma3_per_sentence": 48919,
+  "gemma3": 49930
+ },
+ "srp_Cyrl": {
+  "gemma3_per_sentence": 46934,
+  "gemma3": 47945
+ },
+ "ssw_Latn": {
+  "gemma3_per_sentence": 52620,
+  "gemma3": 53631
+ },
+ "sun_Latn": {
+  "gemma3_per_sentence": 40766,
+  "gemma3": 41777
+ },
+ "swe_Latn": {
+  "gemma3_per_sentence": 37303,
+  "gemma3": 38314
+ },
+ "swh_Latn": {
+  "gemma3_per_sentence": 44435,
+  "gemma3": 45446
+ },
+ "szl_Latn": {
+  "gemma3_per_sentence": 51151,
+  "gemma3": 52162
+ },
+ "tam_Taml": {
+  "gemma3_per_sentence": 39830,
+  "gemma3": 40841
+ },
+ "taq_Latn": {
+  "gemma3_per_sentence": 51452,
+  "gemma3": 52463
+ },
+ "taq_Tfng": {
+  "gemma3_per_sentence": 140399,
+  "gemma3": 141410
+ },
+ "tat_Cyrl": {
+  "gemma3_per_sentence": 54154,
+  "gemma3": 55165
+ },
+ "tel_Telu": {
+  "gemma3_per_sentence": 48164,
+  "gemma3": 49175
+ },
+ "tgk_Cyrl": {
+  "gemma3_per_sentence": 62233,
+  "gemma3": 63244
+ },
+ "tgl_Latn": {
+  "gemma3_per_sentence": 49551,
+  "gemma3": 50562
+ },
+ "tha_Thai": {
+  "gemma3_per_sentence": 43646,
+  "gemma3": 44657
+ },
+ "tir_Ethi": {
+  "gemma3_per_sentence": 67132,
+  "gemma3": 68143
+ },
+ "tpi_Latn": {
+  "gemma3_per_sentence": 52053,
+  "gemma3": 53064
+ },
+ "tsn_Latn": {
+  "gemma3_per_sentence": 56608,
+  "gemma3": 57619
+ },
+ "tso_Latn": {
+  "gemma3_per_sentence": 56647,
+  "gemma3": 57658
+ },
+ "tuk_Latn": {
+  "gemma3_per_sentence": 55843,
+  "gemma3": 56854
+ },
+ "tum_Latn": {
+  "gemma3_per_sentence": 62285,
+  "gemma3": 63296
+ },
+ "tur_Latn": {
+  "gemma3_per_sentence": 37159,
+  "gemma3": 38170
+ },
+ "twi_Latn": {
+  "gemma3_per_sentence": 52752,
+  "gemma3": 53763
+ },
+ "tzm_Tfng": {
+  "gemma3_per_sentence": 120878,
+  "gemma3": 121889
+ },
+ "uig_Arab": {
+  "gemma3_per_sentence": 78420,
+  "gemma3": 79431
+ },
+ "ukr_Cyrl": {
+  "gemma3_per_sentence": 43658,
+  "gemma3": 44669
+ },
+ "umb_Latn": {
+  "gemma3_per_sentence": 51045,
+  "gemma3": 52056
+ },
+ "urd_Arab": {
+  "gemma3_per_sentence": 41164,
+  "gemma3": 42175
+ },
+ "uzn_Latn": {
+  "gemma3_per_sentence": 51704,
+  "gemma3": 52715
+ },
+ "vec_Latn": {
+  "gemma3_per_sentence": 41981,
+  "gemma3": 42992
+ },
+ "vie_Latn": {
+  "gemma3_per_sentence": 37189,
+  "gemma3": 38200
+ },
+ "war_Latn": {
+  "gemma3_per_sentence": 48483,
+  "gemma3": 49494
+ },
+ "wol_Latn": {
+  "gemma3_per_sentence": 48114,
+  "gemma3": 49125
+ },
+ "xho_Latn": {
+  "gemma3_per_sentence": 51206,
+  "gemma3": 52217
+ },
+ "ydd_Hebr": {
+  "gemma3_per_sentence": 71707,
+  "gemma3": 72718
+ },
+ "yor_Latn": {
+  "gemma3_per_sentence": 65233,
+  "gemma3": 66244
+ },
+ "yue_Hant": {
+  "gemma3_per_sentence": 29453,
+  "gemma3": 30464
+ },
+ "zho_Hans": {
+  "gemma3_per_sentence": 29243,
+  "gemma3": 30254
+ },
+ "zho_Hant": {
+  "gemma3_per_sentence": 30460,
+  "gemma3": 31471
+ },
+ "zsm_Latn": {
+  "gemma3_per_sentence": 32967,
+  "gemma3": 33978
+ },
+ "zul_Latn": {
+  "gemma3_per_sentence": 53558,
+  "gemma3": 54569
+ }
+}

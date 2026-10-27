@@ -1,0 +1,1634 @@
+{
+ "ace_Arab": {
+  "sentences": 1012,
+  "chars": 112650,
+  "o200k_per_sentence": 70305,
+  "cl100k_per_sentence": 102556,
+  "o200k": 70310,
+  "cl100k": 102566
+ },
+ "ace_Latn": {
+  "sentences": 1012,
+  "chars": 142962,
+  "o200k_per_sentence": 48783,
+  "cl100k_per_sentence": 54210,
+  "o200k": 48788,
+  "cl100k": 54216
+ },
+ "acm_Arab": {
+  "sentences": 1012,
+  "chars": 114637,
+  "o200k_per_sentence": 37097,
+  "cl100k_per_sentence": 80913,
+  "o200k": 37105,
+  "cl100k": 80923
+ },
+ "acq_Arab": {
+  "sentences": 1012,
+  "chars": 116134,
+  "o200k_per_sentence": 37351,
+  "cl100k_per_sentence": 81630,
+  "o200k": 37357,
+  "cl100k": 81638
+ },
+ "aeb_Arab": {
+  "sentences": 1012,
+  "chars": 113113,
+  "o200k_per_sentence": 38176,
+  "cl100k_per_sentence": 79176,
+  "o200k": 38188,
+  "cl100k": 79190
+ },
+ "afr_Latn": {
+  "sentences": 1012,
+  "chars": 140702,
+  "o200k_per_sentence": 38362,
+  "cl100k_per_sentence": 45897,
+  "o200k": 38367,
+  "cl100k": 45906
+ },
+ "ajp_Arab": {
+  "sentences": 1012,
+  "chars": 110062,
+  "o200k_per_sentence": 36011,
+  "cl100k_per_sentence": 76977,
+  "o200k": 36027,
+  "cl100k": 76997
+ },
+ "aka_Latn": {
+  "sentences": 1012,
+  "chars": 133664,
+  "o200k_per_sentence": 56050,
+  "cl100k_per_sentence": 73257,
+  "o200k": 56050,
+  "cl100k": 73267
+ },
+ "als_Latn": {
+  "sentences": 1012,
+  "chars": 148091,
+  "o200k_per_sentence": 49212,
+  "cl100k_per_sentence": 61062,
+  "o200k": 49215,
+  "cl100k": 61065
+ },
+ "amh_Ethi": {
+  "sentences": 1012,
+  "chars": 88143,
+  "o200k_per_sentence": 155290,
+  "cl100k_per_sentence": 206404,
+  "o200k": 156283,
+  "cl100k": 207397
+ },
+ "apc_Arab": {
+  "sentences": 1012,
+  "chars": 108996,
+  "o200k_per_sentence": 36157,
+  "cl100k_per_sentence": 76568,
+  "o200k": 36164,
+  "cl100k": 76577
+ },
+ "arb_Arab": {
+  "sentences": 1012,
+  "chars": 117331,
+  "o200k_per_sentence": 37117,
+  "cl100k_per_sentence": 82288,
+  "o200k": 37123,
+  "cl100k": 82296
+ },
+ "arb_Latn": {
+  "sentences": 1012,
+  "chars": 154873,
+  "o200k_per_sentence": 60544,
+  "cl100k_per_sentence": 66586,
+  "o200k": 60552,
+  "cl100k": 66596
+ },
+ "ars_Arab": {
+  "sentences": 1012,
+  "chars": 117442,
+  "o200k_per_sentence": 37236,
+  "cl100k_per_sentence": 82417,
+  "o200k": 37240,
+  "cl100k": 82423
+ },
+ "ary_Arab": {
+  "sentences": 1012,
+  "chars": 114577,
+  "o200k_per_sentence": 39849,
+  "cl100k_per_sentence": 80384,
+  "o200k": 39862,
+  "cl100k": 80399
+ },
+ "arz_Arab": {
+  "sentences": 1012,
+  "chars": 114781,
+  "o200k_per_sentence": 37772,
+  "cl100k_per_sentence": 80244,
+  "o200k": 37779,
+  "cl100k": 80253
+ },
+ "asm_Beng": {
+  "sentences": 1012,
+  "chars": 126954,
+  "o200k_per_sentence": 53440,
+  "cl100k_per_sentence": 167224,
+  "o200k": 53545,
+  "cl100k": 168150
+ },
+ "ast_Latn": {
+  "sentences": 1012,
+  "chars": 137669,
+  "o200k_per_sentence": 38260,
+  "cl100k_per_sentence": 43184,
+  "o200k": 38261,
+  "cl100k": 43202
+ },
+ "awa_Deva": {
+  "sentences": 1012,
+  "chars": 129224,
+  "o200k_per_sentence": 45862,
+  "cl100k_per_sentence": 129015,
+  "o200k": 45866,
+  "cl100k": 129962
+ },
+ "ayr_Latn": {
+  "sentences": 1012,
+  "chars": 139631,
+  "o200k_per_sentence": 52120,
+  "cl100k_per_sentence": 59162,
+  "o200k": 52125,
+  "cl100k": 59171
+ },
+ "azb_Arab": {
+  "sentences": 1012,
+  "chars": 118135,
+  "o200k_per_sentence": 49934,
+  "cl100k_per_sentence": 90275,
+  "o200k": 49962,
+  "cl100k": 90306
+ },
+ "azj_Latn": {
+  "sentences": 1012,
+  "chars": 144798,
+  "o200k_per_sentence": 46078,
+  "cl100k_per_sentence": 71731,
+  "o200k": 46080,
+  "cl100k": 71733
+ },
+ "bak_Cyrl": {
+  "sentences": 1012,
+  "chars": 134254,
+  "o200k_per_sentence": 46908,
+  "cl100k_per_sentence": 115687,
+  "o200k": 46911,
+  "cl100k": 115692
+ },
+ "bam_Latn": {
+  "sentences": 1012,
+  "chars": 127512,
+  "o200k_per_sentence": 54775,
+  "cl100k_per_sentence": 69553,
+  "o200k": 54799,
+  "cl100k": 69577
+ },
+ "ban_Latn": {
+  "sentences": 1012,
+  "chars": 146668,
+  "o200k_per_sentence": 42254,
+  "cl100k_per_sentence": 48689,
+  "o200k": 42283,
+  "cl100k": 48715
+ },
+ "bel_Cyrl": {
+  "sentences": 1012,
+  "chars": 149020,
+  "o200k_per_sentence": 53357,
+  "cl100k_per_sentence": 95089,
+  "o200k": 53364,
+  "cl100k": 95134
+ },
+ "bem_Latn": {
+  "sentences": 1012,
+  "chars": 161783,
+  "o200k_per_sentence": 52000,
+  "cl100k_per_sentence": 60183,
+  "o200k": 52005,
+  "cl100k": 60191
+ },
+ "ben_Beng": {
+  "sentences": 1012,
+  "chars": 130053,
+  "o200k_per_sentence": 45592,
+  "cl100k_per_sentence": 157626,
+  "o200k": 45613,
+  "cl100k": 158564
+ },
+ "bho_Deva": {
+  "sentences": 1012,
+  "chars": 129647,
+  "o200k_per_sentence": 47631,
+  "cl100k_per_sentence": 127238,
+  "o200k": 47636,
+  "cl100k": 127461
+ },
+ "bjn_Arab": {
+  "sentences": 1012,
+  "chars": 123261,
+  "o200k_per_sentence": 68271,
+  "cl100k_per_sentence": 102640,
+  "o200k": 68277,
+  "cl100k": 102648
+ },
+ "bjn_Latn": {
+  "sentences": 1012,
+  "chars": 139213,
+  "o200k_per_sentence": 38913,
+  "cl100k_per_sentence": 46479,
+  "o200k": 38918,
+  "cl100k": 46484
+ },
+ "bod_Tibt": {
+  "sentences": 1012,
+  "chars": 149242,
+  "o200k_per_sentence": 217625,
+  "cl100k_per_sentence": 304033,
+  "o200k": 218531,
+  "cl100k": 304942
+ },
+ "bos_Latn": {
+  "sentences": 1012,
+  "chars": 133210,
+  "o200k_per_sentence": 40309,
+  "cl100k_per_sentence": 50913,
+  "o200k": 40323,
+  "cl100k": 50942
+ },
+ "bug_Latn": {
+  "sentences": 1012,
+  "chars": 140400,
+  "o200k_per_sentence": 46734,
+  "cl100k_per_sentence": 53385,
+  "o200k": 46772,
+  "cl100k": 53434
+ },
+ "bul_Cyrl": {
+  "sentences": 1012,
+  "chars": 138837,
+  "o200k_per_sentence": 46038,
+  "cl100k_per_sentence": 71509,
+  "o200k": 46066,
+  "cl100k": 71551
+ },
+ "cat_Latn": {
+  "sentences": 1012,
+  "chars": 146807,
+  "o200k_per_sentence": 39849,
+  "cl100k_per_sentence": 46482,
+  "o200k": 39850,
+  "cl100k": 46483
+ },
+ "ceb_Latn": {
+  "sentences": 1012,
+  "chars": 159696,
+  "o200k_per_sentence": 45021,
+  "cl100k_per_sentence": 52471,
+  "o200k": 45023,
+  "cl100k": 52473
+ },
+ "ces_Latn": {
+  "sentences": 1012,
+  "chars": 128268,
+  "o200k_per_sentence": 42911,
+  "cl100k_per_sentence": 57116,
+  "o200k": 42924,
+  "cl100k": 57148
+ },
+ "cjk_Latn": {
+  "sentences": 1012,
+  "chars": 140293,
+  "o200k_per_sentence": 46525,
+  "cl100k_per_sentence": 53310,
+  "o200k": 46525,
+  "cl100k": 53319
+ },
+ "ckb_Arab": {
+  "sentences": 1012,
+  "chars": 129597,
+  "o200k_per_sentence": 74443,
+  "cl100k_per_sentence": 130360,
+  "o200k": 74449,
+  "cl100k": 130368
+ },
+ "crh_Latn": {
+  "sentences": 1012,
+  "chars": 135467,
+  "o200k_per_sentence": 46301,
+  "cl100k_per_sentence": 57362,
+  "o200k": 46302,
+  "cl100k": 57363
+ },
+ "cym_Latn": {
+  "sentences": 1012,
+  "chars": 142284,
+  "o200k_per_sentence": 46739,
+  "cl100k_per_sentence": 58030,
+  "o200k": 46740,
+  "cl100k": 58031
+ },
+ "dan_Latn": {
+  "sentences": 1012,
+  "chars": 136470,
+  "o200k_per_sentence": 37486,
+  "cl100k_per_sentence": 44244,
+  "o200k": 37488,
+  "cl100k": 44247
+ },
+ "deu_Latn": {
+  "sentences": 1012,
+  "chars": 154820,
+  "o200k_per_sentence": 35224,
+  "cl100k_per_sentence": 43103,
+  "o200k": 35247,
+  "cl100k": 43134
+ },
+ "dik_Latn": {
+  "sentences": 1012,
+  "chars": 112918,
+  "o200k_per_sentence": 49931,
+  "cl100k_per_sentence": 60856,
+  "o200k": 50012,
+  "cl100k": 60937
+ },
+ "dyu_Latn": {
+  "sentences": 1012,
+  "chars": 133867,
+  "o200k_per_sentence": 49939,
+  "cl100k_per_sentence": 56060,
+  "o200k": 49940,
+  "cl100k": 56080
+ },
+ "dzo_Tibt": {
+  "sentences": 1012,
+  "chars": 164419,
+  "o200k_per_sentence": 241756,
+  "cl100k_per_sentence": 330047,
+  "o200k": 242711,
+  "cl100k": 331002
+ },
+ "ell_Grek": {
+  "sentences": 1012,
+  "chars": 158792,
+  "o200k_per_sentence": 57519,
+  "cl100k_per_sentence": 139449,
+  "o200k": 57522,
+  "cl100k": 139476
+ },
+ "eng_Latn": {
+  "sentences": 1012,
+  "chars": 132977,
+  "o200k_per_sentence": 26873,
+  "cl100k_per_sentence": 27182,
+  "o200k": 26878,
+  "cl100k": 27187
+ },
+ "epo_Latn": {
+  "sentences": 1012,
+  "chars": 132303,
+  "o200k_per_sentence": 41007,
+  "cl100k_per_sentence": 50712,
+  "o200k": 41010,
+  "cl100k": 50717
+ },
+ "est_Latn": {
+  "sentences": 1012,
+  "chars": 130470,
+  "o200k_per_sentence": 40184,
+  "cl100k_per_sentence": 50885,
+  "o200k": 40193,
+  "cl100k": 50902
+ },
+ "eus_Latn": {
+  "sentences": 1012,
+  "chars": 140857,
+  "o200k_per_sentence": 43098,
+  "cl100k_per_sentence": 51142,
+  "o200k": 43099,
+  "cl100k": 51145
+ },
+ "ewe_Latn": {
+  "sentences": 1012,
+  "chars": 128480,
+  "o200k_per_sentence": 62879,
+  "cl100k_per_sentence": 74321,
+  "o200k": 63141,
+  "cl100k": 74584
+ },
+ "fao_Latn": {
+  "sentences": 1012,
+  "chars": 135309,
+  "o200k_per_sentence": 44469,
+  "cl100k_per_sentence": 56479,
+  "o200k": 44473,
+  "cl100k": 56487
+ },
+ "fij_Latn": {
+  "sentences": 1012,
+  "chars": 156188,
+  "o200k_per_sentence": 49776,
+  "cl100k_per_sentence": 58777,
+  "o200k": 49782,
+  "cl100k": 58784
+ },
+ "fin_Latn": {
+  "sentences": 1012,
+  "chars": 141152,
+  "o200k_per_sentence": 41958,
+  "cl100k_per_sentence": 54197,
+  "o200k": 41970,
+  "cl100k": 54209
+ },
+ "fon_Latn": {
+  "sentences": 1012,
+  "chars": 136291,
+  "o200k_per_sentence": 77545,
+  "cl100k_per_sentence": 99536,
+  "o200k": 77583,
+  "cl100k": 99576
+ },
+ "fra_Latn": {
+  "sentences": 1012,
+  "chars": 158699,
+  "o200k_per_sentence": 36808,
+  "cl100k_per_sentence": 43710,
+  "o200k": 36864,
+  "cl100k": 43745
+ },
+ "fur_Latn": {
+  "sentences": 1012,
+  "chars": 145549,
+  "o200k_per_sentence": 46556,
+  "cl100k_per_sentence": 50268,
+  "o200k": 46561,
+  "cl100k": 50278
+ },
+ "fuv_Latn": {
+  "sentences": 1012,
+  "chars": 123173,
+  "o200k_per_sentence": 43017,
+  "cl100k_per_sentence": 50364,
+  "o200k": 43049,
+  "cl100k": 50413
+ },
+ "gaz_Latn": {
+  "sentences": 1012,
+  "chars": 157429,
+  "o200k_per_sentence": 50501,
+  "cl100k_per_sentence": 62907,
+  "o200k": 50511,
+  "cl100k": 62919
+ },
+ "gla_Latn": {
+  "sentences": 1012,
+  "chars": 163647,
+  "o200k_per_sentence": 53453,
+  "cl100k_per_sentence": 65564,
+  "o200k": 53455,
+  "cl100k": 65571
+ },
+ "gle_Latn": {
+  "sentences": 1012,
+  "chars": 153493,
+  "o200k_per_sentence": 49672,
+  "cl100k_per_sentence": 63171,
+  "o200k": 49674,
+  "cl100k": 63173
+ },
+ "glg_Latn": {
+  "sentences": 1012,
+  "chars": 147154,
+  "o200k_per_sentence": 35880,
+  "cl100k_per_sentence": 42448,
+  "o200k": 35882,
+  "cl100k": 42473
+ },
+ "grn_Latn": {
+  "sentences": 1012,
+  "chars": 133983,
+  "o200k_per_sentence": 47785,
+  "cl100k_per_sentence": 58917,
+  "o200k": 47791,
+  "cl100k": 58929
+ },
+ "guj_Gujr": {
+  "sentences": 1012,
+  "chars": 127439,
+  "o200k_per_sentence": 48135,
+  "cl100k_per_sentence": 208278,
+  "o200k": 48148,
+  "cl100k": 208291
+ },
+ "hat_Latn": {
+  "sentences": 1012,
+  "chars": 122297,
+  "o200k_per_sentence": 37945,
+  "cl100k_per_sentence": 47250,
+  "o200k": 37949,
+  "cl100k": 47254
+ },
+ "hau_Latn": {
+  "sentences": 1012,
+  "chars": 141080,
+  "o200k_per_sentence": 41660,
+  "cl100k_per_sentence": 54202,
+  "o200k": 41664,
+  "cl100k": 54215
+ },
+ "heb_Hebr": {
+  "sentences": 1012,
+  "chars": 103065,
+  "o200k_per_sentence": 39861,
+  "cl100k_per_sentence": 99031,
+  "o200k": 39869,
+  "cl100k": 99039
+ },
+ "hin_Deva": {
+  "sentences": 1012,
+  "chars": 132090,
+  "o200k_per_sentence": 42292,
+  "cl100k_per_sentence": 129364,
+  "o200k": 42301,
+  "cl100k": 129679
+ },
+ "hne_Deva": {
+  "sentences": 1012,
+  "chars": 127972,
+  "o200k_per_sentence": 46474,
+  "cl100k_per_sentence": 126893,
+  "o200k": 46499,
+  "cl100k": 127864
+ },
+ "hrv_Latn": {
+  "sentences": 1012,
+  "chars": 129925,
+  "o200k_per_sentence": 39758,
+  "cl100k_per_sentence": 50074,
+  "o200k": 39829,
+  "cl100k": 50204
+ },
+ "hun_Latn": {
+  "sentences": 1012,
+  "chars": 139646,
+  "o200k_per_sentence": 48209,
+  "cl100k_per_sentence": 58412,
+  "o200k": 48217,
+  "cl100k": 58427
+ },
+ "hye_Armn": {
+  "sentences": 1012,
+  "chars": 146967,
+  "o200k_per_sentence": 48032,
+  "cl100k_per_sentence": 268572,
+  "o200k": 48054,
+  "cl100k": 268833
+ },
+ "ibo_Latn": {
+  "sentences": 1012,
+  "chars": 135571,
+  "o200k_per_sentence": 44757,
+  "cl100k_per_sentence": 66987,
+  "o200k": 44772,
+  "cl100k": 67003
+ },
+ "ilo_Latn": {
+  "sentences": 1012,
+  "chars": 160691,
+  "o200k_per_sentence": 49533,
+  "cl100k_per_sentence": 55701,
+  "o200k": 49540,
+  "cl100k": 55715
+ },
+ "ind_Latn": {
+  "sentences": 1012,
+  "chars": 143417,
+  "o200k_per_sentence": 33570,
+  "cl100k_per_sentence": 42162,
+  "o200k": 33586,
+  "cl100k": 42178
+ },
+ "isl_Latn": {
+  "sentences": 1012,
+  "chars": 130796,
+  "o200k_per_sentence": 43227,
+  "cl100k_per_sentence": 58147,
+  "o200k": 43233,
+  "cl100k": 58154
+ },
+ "ita_Latn": {
+  "sentences": 1012,
+  "chars": 157149,
+  "o200k_per_sentence": 39479,
+  "cl100k_per_sentence": 44594,
+  "o200k": 39483,
+  "cl100k": 44599
+ },
+ "jav_Latn": {
+  "sentences": 1012,
+  "chars": 137939,
+  "o200k_per_sentence": 36826,
+  "cl100k_per_sentence": 46981,
+  "o200k": 36834,
+  "cl100k": 46997
+ },
+ "jpn_Jpan": {
+  "sentences": 1012,
+  "chars": 57954,
+  "o200k_per_sentence": 44559,
+  "cl100k_per_sentence": 61583,
+  "o200k": 44562,
+  "cl100k": 61593
+ },
+ "kab_Latn": {
+  "sentences": 1012,
+  "chars": 131586,
+  "o200k_per_sentence": 57481,
+  "cl100k_per_sentence": 66971,
+  "o200k": 57486,
+  "cl100k": 66976
+ },
+ "kac_Latn": {
+  "sentences": 1012,
+  "chars": 170958,
+  "o200k_per_sentence": 57478,
+  "cl100k_per_sentence": 64704,
+  "o200k": 57478,
+  "cl100k": 64704
+ },
+ "kam_Latn": {
+  "sentences": 1012,
+  "chars": 129370,
+  "o200k_per_sentence": 48927,
+  "cl100k_per_sentence": 59051,
+  "o200k": 48928,
+  "cl100k": 59069
+ },
+ "kan_Knda": {
+  "sentences": 1012,
+  "chars": 139151,
+  "o200k_per_sentence": 52975,
+  "cl100k_per_sentence": 240818,
+  "o200k": 52979,
+  "cl100k": 240822
+ },
+ "kas_Arab": {
+  "sentences": 1012,
+  "chars": 127240,
+  "o200k_per_sentence": 70110,
+  "cl100k_per_sentence": 125155,
+  "o200k": 70138,
+  "cl100k": 126074
+ },
+ "kas_Deva": {
+  "sentences": 1012,
+  "chars": 127516,
+  "o200k_per_sentence": 60030,
+  "cl100k_per_sentence": 126716,
+  "o200k": 60046,
+  "cl100k": 127608
+ },
+ "kat_Geor": {
+  "sentences": 1012,
+  "chars": 144943,
+  "o200k_per_sentence": 47980,
+  "cl100k_per_sentence": 265053,
+  "o200k": 47999,
+  "cl100k": 265074
+ },
+ "kaz_Cyrl": {
+  "sentences": 1012,
+  "chars": 136448,
+  "o200k_per_sentence": 42609,
+  "cl100k_per_sentence": 102824,
+  "o200k": 42615,
+  "cl100k": 102840
+ },
+ "kbp_Latn": {
+  "sentences": 1012,
+  "chars": 144041,
+  "o200k_per_sentence": 104832,
+  "cl100k_per_sentence": 127857,
+  "o200k": 104901,
+  "cl100k": 127928
+ },
+ "kea_Latn": {
+  "sentences": 1012,
+  "chars": 131836,
+  "o200k_per_sentence": 41598,
+  "cl100k_per_sentence": 46924,
+  "o200k": 41601,
+  "cl100k": 46932
+ },
+ "khk_Cyrl": {
+  "sentences": 1012,
+  "chars": 138079,
+  "o200k_per_sentence": 50793,
+  "cl100k_per_sentence": 101863,
+  "o200k": 50794,
+  "cl100k": 101864
+ },
+ "khm_Khmr": {
+  "sentences": 1012,
+  "chars": 154225,
+  "o200k_per_sentence": 89642,
+  "cl100k_per_sentence": 236895,
+  "o200k": 89682,
+  "cl100k": 237886
+ },
+ "kik_Latn": {
+  "sentences": 1012,
+  "chars": 154635,
+  "o200k_per_sentence": 69832,
+  "cl100k_per_sentence": 88619,
+  "o200k": 69852,
+  "cl100k": 88640
+ },
+ "kin_Latn": {
+  "sentences": 1012,
+  "chars": 146894,
+  "o200k_per_sentence": 46030,
+  "cl100k_per_sentence": 57937,
+  "o200k": 46035,
+  "cl100k": 57944
+ },
+ "kir_Cyrl": {
+  "sentences": 1012,
+  "chars": 136561,
+  "o200k_per_sentence": 44975,
+  "cl100k_per_sentence": 95275,
+  "o200k": 44976,
+  "cl100k": 95276
+ },
+ "kmb_Latn": {
+  "sentences": 1012,
+  "chars": 146776,
+  "o200k_per_sentence": 49272,
+  "cl100k_per_sentence": 57992,
+  "o200k": 49277,
+  "cl100k": 58006
+ },
+ "kmr_Latn": {
+  "sentences": 1012,
+  "chars": 131383,
+  "o200k_per_sentence": 54197,
+  "cl100k_per_sentence": 59845,
+  "o200k": 54201,
+  "cl100k": 59849
+ },
+ "knc_Arab": {
+  "sentences": 1012,
+  "chars": 117032,
+  "o200k_per_sentence": 74239,
+  "cl100k_per_sentence": 98501,
+  "o200k": 74883,
+  "cl100k": 99148
+ },
+ "knc_Latn": {
+  "sentences": 1012,
+  "chars": 140005,
+  "o200k_per_sentence": 57112,
+  "cl100k_per_sentence": 64840,
+  "o200k": 57119,
+  "cl100k": 64847
+ },
+ "kon_Latn": {
+  "sentences": 1012,
+  "chars": 150939,
+  "o200k_per_sentence": 47266,
+  "cl100k_per_sentence": 54141,
+  "o200k": 47267,
+  "cl100k": 54142
+ },
+ "kor_Hang": {
+  "sentences": 1012,
+  "chars": 66976,
+  "o200k_per_sentence": 39566,
+  "cl100k_per_sentence": 64338,
+  "o200k": 39574,
+  "cl100k": 64345
+ },
+ "lao_Laoo": {
+  "sentences": 1012,
+  "chars": 131100,
+  "o200k_per_sentence": 221164,
+  "cl100k_per_sentence": 259443,
+  "o200k": 221170,
+  "cl100k": 259455
+ },
+ "lij_Latn": {
+  "sentences": 1012,
+  "chars": 147025,
+  "o200k_per_sentence": 48625,
+  "cl100k_per_sentence": 53780,
+  "o200k": 48629,
+  "cl100k": 53796
+ },
+ "lim_Latn": {
+  "sentences": 1012,
+  "chars": 138718,
+  "o200k_per_sentence": 43140,
+  "cl100k_per_sentence": 49239,
+  "o200k": 43144,
+  "cl100k": 49247
+ },
+ "lin_Latn": {
+  "sentences": 1012,
+  "chars": 143208,
+  "o200k_per_sentence": 43452,
+  "cl100k_per_sentence": 50850,
+  "o200k": 43459,
+  "cl100k": 50857
+ },
+ "lit_Latn": {
+  "sentences": 1012,
+  "chars": 131340,
+  "o200k_per_sentence": 45032,
+  "cl100k_per_sentence": 59503,
+  "o200k": 45072,
+  "cl100k": 59555
+ },
+ "lmo_Latn": {
+  "sentences": 1012,
+  "chars": 142698,
+  "o200k_per_sentence": 49557,
+  "cl100k_per_sentence": 55426,
+  "o200k": 49564,
+  "cl100k": 55448
+ },
+ "ltg_Latn": {
+  "sentences": 1012,
+  "chars": 130902,
+  "o200k_per_sentence": 50671,
+  "cl100k_per_sentence": 59714,
+  "o200k": 50673,
+  "cl100k": 59716
+ },
+ "ltz_Latn": {
+  "sentences": 1012,
+  "chars": 148557,
+  "o200k_per_sentence": 44823,
+  "cl100k_per_sentence": 53946,
+  "o200k": 44827,
+  "cl100k": 53951
+ },
+ "lua_Latn": {
+  "sentences": 1012,
+  "chars": 144009,
+  "o200k_per_sentence": 45659,
+  "cl100k_per_sentence": 53066,
+  "o200k": 45661,
+  "cl100k": 53068
+ },
+ "lug_Latn": {
+  "sentences": 1012,
+  "chars": 136113,
+  "o200k_per_sentence": 44673,
+  "cl100k_per_sentence": 53354,
+  "o200k": 44771,
+  "cl100k": 53459
+ },
+ "luo_Latn": {
+  "sentences": 1012,
+  "chars": 138557,
+  "o200k_per_sentence": 45035,
+  "cl100k_per_sentence": 49518,
+  "o200k": 45065,
+  "cl100k": 49561
+ },
+ "lus_Latn": {
+  "sentences": 1012,
+  "chars": 147379,
+  "o200k_per_sentence": 49120,
+  "cl100k_per_sentence": 54021,
+  "o200k": 49129,
+  "cl100k": 54030
+ },
+ "lvs_Latn": {
+  "sentences": 1012,
+  "chars": 135168,
+  "o200k_per_sentence": 48725,
+  "cl100k_per_sentence": 63683,
+  "o200k": 48725,
+  "cl100k": 63692
+ },
+ "mag_Deva": {
+  "sentences": 1012,
+  "chars": 127706,
+  "o200k_per_sentence": 46142,
+  "cl100k_per_sentence": 127301,
+  "o200k": 46161,
+  "cl100k": 128272
+ },
+ "mai_Deva": {
+  "sentences": 1012,
+  "chars": 130422,
+  "o200k_per_sentence": 47257,
+  "cl100k_per_sentence": 132546,
+  "o200k": 47270,
+  "cl100k": 133522
+ },
+ "mal_Mlym": {
+  "sentences": 1012,
+  "chars": 150347,
+  "o200k_per_sentence": 52584,
+  "cl100k_per_sentence": 242932,
+  "o200k": 52604,
+  "cl100k": 242941
+ },
+ "mar_Deva": {
+  "sentences": 1012,
+  "chars": 134263,
+  "o200k_per_sentence": 48965,
+  "cl100k_per_sentence": 137410,
+  "o200k": 48973,
+  "cl100k": 137418
+ },
+ "min_Arab": {
+  "sentences": 1012,
+  "chars": 127429,
+  "o200k_per_sentence": 71482,
+  "cl100k_per_sentence": 107966,
+  "o200k": 71487,
+  "cl100k": 107974
+ },
+ "min_Latn": {
+  "sentences": 1012,
+  "chars": 142193,
+  "o200k_per_sentence": 41924,
+  "cl100k_per_sentence": 48361,
+  "o200k": 41929,
+  "cl100k": 48367
+ },
+ "mkd_Cyrl": {
+  "sentences": 1012,
+  "chars": 138838,
+  "o200k_per_sentence": 47955,
+  "cl100k_per_sentence": 75048,
+  "o200k": 47988,
+  "cl100k": 75090
+ },
+ "mlt_Latn": {
+  "sentences": 1012,
+  "chars": 147299,
+  "o200k_per_sentence": 50208,
+  "cl100k_per_sentence": 65712,
+  "o200k": 50214,
+  "cl100k": 65725
+ },
+ "mni_Beng": {
+  "sentences": 1012,
+  "chars": 137832,
+  "o200k_per_sentence": 82575,
+  "cl100k_per_sentence": 182363,
+  "o200k": 82584,
+  "cl100k": 183349
+ },
+ "mos_Latn": {
+  "sentences": 1012,
+  "chars": 125689,
+  "o200k_per_sentence": 54711,
+  "cl100k_per_sentence": 62070,
+  "o200k": 54716,
+  "cl100k": 62075
+ },
+ "mri_Latn": {
+  "sentences": 1012,
+  "chars": 147577,
+  "o200k_per_sentence": 49100,
+  "cl100k_per_sentence": 64189,
+  "o200k": 49108,
+  "cl100k": 64197
+ },
+ "mya_Mymr": {
+  "sentences": 1012,
+  "chars": 164180,
+  "o200k_per_sentence": 85029,
+  "cl100k_per_sentence": 315796,
+  "o200k": 85034,
+  "cl100k": 316731
+ },
+ "nld_Latn": {
+  "sentences": 1012,
+  "chars": 148540,
+  "o200k_per_sentence": 33514,
+  "cl100k_per_sentence": 43583,
+  "o200k": 33517,
+  "cl100k": 43587
+ },
+ "nno_Latn": {
+  "sentences": 1012,
+  "chars": 134475,
+  "o200k_per_sentence": 37806,
+  "cl100k_per_sentence": 44605,
+  "o200k": 37811,
+  "cl100k": 44617
+ },
+ "nob_Latn": {
+  "sentences": 1012,
+  "chars": 133150,
+  "o200k_per_sentence": 36254,
+  "cl100k_per_sentence": 42442,
+  "o200k": 36257,
+  "cl100k": 42474
+ },
+ "npi_Deva": {
+  "sentences": 1012,
+  "chars": 127914,
+  "o200k_per_sentence": 43377,
+  "cl100k_per_sentence": 129516,
+  "o200k": 43402,
+  "cl100k": 130509
+ },
+ "nso_Latn": {
+  "sentences": 1012,
+  "chars": 152121,
+  "o200k_per_sentence": 50005,
+  "cl100k_per_sentence": 59380,
+  "o200k": 50010,
+  "cl100k": 59385
+ },
+ "nus_Latn": {
+  "sentences": 1012,
+  "chars": 143776,
+  "o200k_per_sentence": 87369,
+  "cl100k_per_sentence": 108741,
+  "o200k": 87386,
+  "cl100k": 108761
+ },
+ "nya_Latn": {
+  "sentences": 1012,
+  "chars": 148214,
+  "o200k_per_sentence": 43324,
+  "cl100k_per_sentence": 56584,
+  "o200k": 43325,
+  "cl100k": 56598
+ },
+ "oci_Latn": {
+  "sentences": 1012,
+  "chars": 151662,
+  "o200k_per_sentence": 43030,
+  "cl100k_per_sentence": 49747,
+  "o200k": 43034,
+  "cl100k": 49751
+ },
+ "ory_Orya": {
+  "sentences": 1012,
+  "chars": 135850,
+  "o200k_per_sentence": 133961,
+  "cl100k_per_sentence": 337072,
+  "o200k": 133998,
+  "cl100k": 338028
+ },
+ "pag_Latn": {
+  "sentences": 1012,
+  "chars": 130935,
+  "o200k_per_sentence": 38385,
+  "cl100k_per_sentence": 42248,
+  "o200k": 38391,
+  "cl100k": 42254
+ },
+ "pan_Guru": {
+  "sentences": 1012,
+  "chars": 134436,
+  "o200k_per_sentence": 70345,
+  "cl100k_per_sentence": 213407,
+  "o200k": 70361,
+  "cl100k": 214388
+ },
+ "pap_Latn": {
+  "sentences": 1012,
+  "chars": 140185,
+  "o200k_per_sentence": 42571,
+  "cl100k_per_sentence": 47502,
+  "o200k": 42574,
+  "cl100k": 47514
+ },
+ "pbt_Arab": {
+  "sentences": 1012,
+  "chars": 123467,
+  "o200k_per_sentence": 46064,
+  "cl100k_per_sentence": 102084,
+  "o200k": 46124,
+  "cl100k": 102208
+ },
+ "pes_Arab": {
+  "sentences": 1012,
+  "chars": 124841,
+  "o200k_per_sentence": 41116,
+  "cl100k_per_sentence": 88513,
+  "o200k": 41137,
+  "cl100k": 88541
+ },
+ "plt_Latn": {
+  "sentences": 1012,
+  "chars": 162007,
+  "o200k_per_sentence": 48172,
+  "cl100k_per_sentence": 61139,
+  "o200k": 48177,
+  "cl100k": 61155
+ },
+ "pol_Latn": {
+  "sentences": 1012,
+  "chars": 140496,
+  "o200k_per_sentence": 44032,
+  "cl100k_per_sentence": 52026,
+  "o200k": 44035,
+  "cl100k": 52062
+ },
+ "por_Latn": {
+  "sentences": 1012,
+  "chars": 144500,
+  "o200k_per_sentence": 32922,
+  "cl100k_per_sentence": 40179,
+  "o200k": 32933,
+  "cl100k": 40191
+ },
+ "prs_Arab": {
+  "sentences": 1012,
+  "chars": 121676,
+  "o200k_per_sentence": 39668,
+  "cl100k_per_sentence": 85580,
+  "o200k": 39671,
+  "cl100k": 85585
+ },
+ "quy_Latn": {
+  "sentences": 1012,
+  "chars": 142041,
+  "o200k_per_sentence": 49166,
+  "cl100k_per_sentence": 56598,
+  "o200k": 49170,
+  "cl100k": 56608
+ },
+ "ron_Latn": {
+  "sentences": 1012,
+  "chars": 149618,
+  "o200k_per_sentence": 43866,
+  "cl100k_per_sentence": 51012,
+  "o200k": 43869,
+  "cl100k": 51023
+ },
+ "run_Latn": {
+  "sentences": 1012,
+  "chars": 148276,
+  "o200k_per_sentence": 47844,
+  "cl100k_per_sentence": 58144,
+  "o200k": 47847,
+  "cl100k": 58149
+ },
+ "rus_Cyrl": {
+  "sentences": 1012,
+  "chars": 143107,
+  "o200k_per_sentence": 38188,
+  "cl100k_per_sentence": 66928,
+  "o200k": 38191,
+  "cl100k": 66933
+ },
+ "sag_Latn": {
+  "sentences": 1012,
+  "chars": 143653,
+  "o200k_per_sentence": 48955,
+  "cl100k_per_sentence": 56547,
+  "o200k": 48985,
+  "cl100k": 56578
+ },
+ "san_Deva": {
+  "sentences": 1012,
+  "chars": 129385,
+  "o200k_per_sentence": 56143,
+  "cl100k_per_sentence": 134349,
+  "o200k": 56149,
+  "cl100k": 135163
+ },
+ "sat_Olck": {
+  "sentences": 1012,
+  "chars": 140802,
+  "o200k_per_sentence": 368158,
+  "cl100k_per_sentence": 346245,
+  "o200k": 369132,
+  "cl100k": 347227
+ },
+ "scn_Latn": {
+  "sentences": 1012,
+  "chars": 139582,
+  "o200k_per_sentence": 48721,
+  "cl100k_per_sentence": 54380,
+  "o200k": 48732,
+  "cl100k": 54404
+ },
+ "shn_Mymr": {
+  "sentences": 1012,
+  "chars": 189295,
+  "o200k_per_sentence": 213080,
+  "cl100k_per_sentence": 407164,
+  "o200k": 213113,
+  "cl100k": 408160
+ },
+ "sin_Sinh": {
+  "sentences": 1012,
+  "chars": 132091,
+  "o200k_per_sentence": 72432,
+  "cl100k_per_sentence": 235883,
+  "o200k": 72434,
+  "cl100k": 235885
+ },
+ "slk_Latn": {
+  "sentences": 1012,
+  "chars": 132721,
+  "o200k_per_sentence": 45067,
+  "cl100k_per_sentence": 57882,
+  "o200k": 45086,
+  "cl100k": 57917
+ },
+ "slv_Latn": {
+  "sentences": 1012,
+  "chars": 131866,
+  "o200k_per_sentence": 40617,
+  "cl100k_per_sentence": 51225,
+  "o200k": 40620,
+  "cl100k": 51227
+ },
+ "smo_Latn": {
+  "sentences": 1012,
+  "chars": 153755,
+  "o200k_per_sentence": 51716,
+  "cl100k_per_sentence": 61931,
+  "o200k": 51730,
+  "cl100k": 61946
+ },
+ "sna_Latn": {
+  "sentences": 1012,
+  "chars": 148635,
+  "o200k_per_sentence": 45703,
+  "cl100k_per_sentence": 58014,
+  "o200k": 45704,
+  "cl100k": 58015
+ },
+ "snd_Arab": {
+  "sentences": 1012,
+  "chars": 120599,
+  "o200k_per_sentence": 45957,
+  "cl100k_per_sentence": 108231,
+  "o200k": 45962,
+  "cl100k": 108242
+ },
+ "som_Latn": {
+  "sentences": 1012,
+  "chars": 152673,
+  "o200k_per_sentence": 46309,
+  "cl100k_per_sentence": 60010,
+  "o200k": 46331,
+  "cl100k": 60034
+ },
+ "sot_Latn": {
+  "sentences": 1012,
+  "chars": 159766,
+  "o200k_per_sentence": 49337,
+  "cl100k_per_sentence": 60162,
+  "o200k": 49344,
+  "cl100k": 60174
+ },
+ "spa_Latn": {
+  "sentences": 1012,
+  "chars": 158052,
+  "o200k_per_sentence": 35415,
+  "cl100k_per_sentence": 41974,
+  "o200k": 35416,
+  "cl100k": 42002
+ },
+ "srd_Latn": {
+  "sentences": 1012,
+  "chars": 154378,
+  "o200k_per_sentence": 47966,
+  "cl100k_per_sentence": 54037,
+  "o200k": 47972,
+  "cl100k": 54055
+ },
+ "srp_Cyrl": {
+  "sentences": 1012,
+  "chars": 131801,
+  "o200k_per_sentence": 47827,
+  "cl100k_per_sentence": 78865,
+  "o200k": 47847,
+  "cl100k": 78896
+ },
+ "ssw_Latn": {
+  "sentences": 1012,
+  "chars": 149760,
+  "o200k_per_sentence": 48556,
+  "cl100k_per_sentence": 58899,
+  "o200k": 48561,
+  "cl100k": 58904
+ },
+ "sun_Latn": {
+  "sentences": 1012,
+  "chars": 137858,
+  "o200k_per_sentence": 37219,
+  "cl100k_per_sentence": 49397,
+  "o200k": 37246,
+  "cl100k": 49424
+ },
+ "swe_Latn": {
+  "sentences": 1012,
+  "chars": 133184,
+  "o200k_per_sentence": 36287,
+  "cl100k_per_sentence": 42861,
+  "o200k": 36305,
+  "cl100k": 42871
+ },
+ "swh_Latn": {
+  "sentences": 1012,
+  "chars": 139117,
+  "o200k_per_sentence": 39924,
+  "cl100k_per_sentence": 53119,
+  "o200k": 39933,
+  "cl100k": 53132
+ },
+ "szl_Latn": {
+  "sentences": 1012,
+  "chars": 138394,
+  "o200k_per_sentence": 52781,
+  "cl100k_per_sentence": 59404,
+  "o200k": 52785,
+  "cl100k": 59416
+ },
+ "tam_Taml": {
+  "sentences": 1012,
+  "chars": 155144,
+  "o200k_per_sentence": 53199,
+  "cl100k_per_sentence": 207772,
+  "o200k": 53207,
+  "cl100k": 207778
+ },
+ "taq_Latn": {
+  "sentences": 1012,
+  "chars": 125449,
+  "o200k_per_sentence": 55803,
+  "cl100k_per_sentence": 60256,
+  "o200k": 55816,
+  "cl100k": 60271
+ },
+ "taq_Tfng": {
+  "sentences": 1012,
+  "chars": 124936,
+  "o200k_per_sentence": 274417,
+  "cl100k_per_sentence": 274485,
+  "o200k": 274429,
+  "cl100k": 274499
+ },
+ "tat_Cyrl": {
+  "sentences": 1012,
+  "chars": 134296,
+  "o200k_per_sentence": 46981,
+  "cl100k_per_sentence": 101354,
+  "o200k": 46985,
+  "cl100k": 101358
+ },
+ "tel_Telu": {
+  "sentences": 1012,
+  "chars": 133516,
+  "o200k_per_sentence": 51863,
+  "cl100k_per_sentence": 225286,
+  "o200k": 51869,
+  "cl100k": 225292
+ },
+ "tgk_Cyrl": {
+  "sentences": 1012,
+  "chars": 146882,
+  "o200k_per_sentence": 50861,
+  "cl100k_per_sentence": 98431,
+  "o200k": 50867,
+  "cl100k": 98437
+ },
+ "tgl_Latn": {
+  "sentences": 1012,
+  "chars": 167528,
+  "o200k_per_sentence": 45545,
+  "cl100k_per_sentence": 56024,
+  "o200k": 45548,
+  "cl100k": 56027
+ },
+ "tha_Thai": {
+  "sentences": 1012,
+  "chars": 127373,
+  "o200k_per_sentence": 52781,
+  "cl100k_per_sentence": 118297,
+  "o200k": 53488,
+  "cl100k": 119005
+ },
+ "tir_Ethi": {
+  "sentences": 1012,
+  "chars": 91712,
+  "o200k_per_sentence": 160330,
+  "cl100k_per_sentence": 211420,
+  "o200k": 161326,
+  "cl100k": 212416
+ },
+ "tpi_Latn": {
+  "sentences": 1012,
+  "chars": 170025,
+  "o200k_per_sentence": 48170,
+  "cl100k_per_sentence": 55504,
+  "o200k": 48171,
+  "cl100k": 55506
+ },
+ "tsn_Latn": {
+  "sentences": 1012,
+  "chars": 164046,
+  "o200k_per_sentence": 51296,
+  "cl100k_per_sentence": 61568,
+  "o200k": 51302,
+  "cl100k": 61579
+ },
+ "tso_Latn": {
+  "sentences": 1012,
+  "chars": 159211,
+  "o200k_per_sentence": 46858,
+  "cl100k_per_sentence": 61379,
+  "o200k": 46869,
+  "cl100k": 61391
+ },
+ "tuk_Latn": {
+  "sentences": 1012,
+  "chars": 141273,
+  "o200k_per_sentence": 44819,
+  "cl100k_per_sentence": 65442,
+  "o200k": 44822,
+  "cl100k": 65445
+ },
+ "tum_Latn": {
+  "sentences": 1012,
+  "chars": 173575,
+  "o200k_per_sentence": 56617,
+  "cl100k_per_sentence": 70053,
+  "o200k": 56623,
+  "cl100k": 70059
+ },
+ "tur_Latn": {
+  "sentences": 1012,
+  "chars": 136789,
+  "o200k_per_sentence": 38458,
+  "cl100k_per_sentence": 52222,
+  "o200k": 38462,
+  "cl100k": 52226
+ },
+ "twi_Latn": {
+  "sentences": 1012,
+  "chars": 129631,
+  "o200k_per_sentence": 49890,
+  "cl100k_per_sentence": 68002,
+  "o200k": 49902,
+  "cl100k": 68026
+ },
+ "tzm_Tfng": {
+  "sentences": 1012,
+  "chars": 118992,
+  "o200k_per_sentence": 272694,
+  "cl100k_per_sentence": 272699,
+  "o200k": 272701,
+  "cl100k": 272711
+ },
+ "uig_Arab": {
+  "sentences": 1012,
+  "chars": 141488,
+  "o200k_per_sentence": 67672,
+  "cl100k_per_sentence": 140539,
+  "o200k": 67678,
+  "cl100k": 140548
+ },
+ "ukr_Cyrl": {
+  "sentences": 1012,
+  "chars": 135513,
+  "o200k_per_sentence": 47004,
+  "cl100k_per_sentence": 80652,
+  "o200k": 47006,
+  "cl100k": 80655
+ },
+ "umb_Latn": {
+  "sentences": 1012,
+  "chars": 135761,
+  "o200k_per_sentence": 48072,
+  "cl100k_per_sentence": 55268,
+  "o200k": 48077,
+  "cl100k": 55285
+ },
+ "urd_Arab": {
+  "sentences": 1012,
+  "chars": 130931,
+  "o200k_per_sentence": 44413,
+  "cl100k_per_sentence": 117958,
+  "o200k": 44423,
+  "cl100k": 118933
+ },
+ "uzn_Latn": {
+  "sentences": 1012,
+  "chars": 150335,
+  "o200k_per_sentence": 47712,
+  "cl100k_per_sentence": 58932,
+  "o200k": 47713,
+  "cl100k": 58933
+ },
+ "vec_Latn": {
+  "sentences": 1012,
+  "chars": 134267,
+  "o200k_per_sentence": 41815,
+  "cl100k_per_sentence": 46350,
+  "o200k": 41821,
+  "cl100k": 46365
+ },
+ "vie_Latn": {
+  "sentences": 1012,
+  "chars": 139606,
+  "o200k_per_sentence": 40030,
+  "cl100k_per_sentence": 66427,
+  "o200k": 40035,
+  "cl100k": 66437
+ },
+ "war_Latn": {
+  "sentences": 1012,
+  "chars": 165777,
+  "o200k_per_sentence": 46226,
+  "cl100k_per_sentence": 53137,
+  "o200k": 46230,
+  "cl100k": 53141
+ },
+ "wol_Latn": {
+  "sentences": 1012,
+  "chars": 128184,
+  "o200k_per_sentence": 46548,
+  "cl100k_per_sentence": 52513,
+  "o200k": 46558,
+  "cl100k": 52529
+ },
+ "xho_Latn": {
+  "sentences": 1012,
+  "chars": 140136,
+  "o200k_per_sentence": 43995,
+  "cl100k_per_sentence": 55859,
+  "o200k": 44012,
+  "cl100k": 55877
+ },
+ "ydd_Hebr": {
+  "sentences": 1012,
+  "chars": 142837,
+  "o200k_per_sentence": 54391,
+  "cl100k_per_sentence": 150523,
+  "o200k": 54396,
+  "cl100k": 150528
+ },
+ "yor_Latn": {
+  "sentences": 1012,
+  "chars": 127859,
+  "o200k_per_sentence": 58238,
+  "cl100k_per_sentence": 80247,
+  "o200k": 58240,
+  "cl100k": 80255
+ },
+ "yue_Hant": {
+  "sentences": 1012,
+  "chars": 41053,
+  "o200k_per_sentence": 37087,
+  "cl100k_per_sentence": 56853,
+  "o200k": 37114,
+  "cl100k": 56903
+ },
+ "zho_Hans": {
+  "sentences": 1012,
+  "chars": 44262,
+  "o200k_per_sentence": 33555,
+  "cl100k_per_sentence": 50811,
+  "o200k": 33584,
+  "cl100k": 50872
+ },
+ "zho_Hant": {
+  "sentences": 1012,
+  "chars": 41733,
+  "o200k_per_sentence": 38098,
+  "cl100k_per_sentence": 58198,
+  "o200k": 38120,
+  "cl100k": 58245
+ },
+ "zsm_Latn": {
+  "sentences": 1012,
+  "chars": 147229,
+  "o200k_per_sentence": 34960,
+  "cl100k_per_sentence": 43979,
+  "o200k": 34967,
+  "cl100k": 43998
+ },
+ "zul_Latn": {
+  "sentences": 1012,
+  "chars": 149375,
+  "o200k_per_sentence": 46239,
+  "cl100k_per_sentence": 60145,
+  "o200k": 46245,
+  "cl100k": 60155
+ }
+}
