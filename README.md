@@ -1,4 +1,4 @@
-# Token tax: how many more tokens each language needs than English
+# Token tax: How many more tokens a language needs, compared to English, for the same text
 
 Swedish needs 35 % more tokens than English for the same text on ChatGPT, and Santali 1 273 % more.
 This repository measures that premium for 204 languages on the tokenizers behind ChatGPT, Gemini,
