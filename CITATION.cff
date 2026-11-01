@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Token tax: how many more tokens a language needs, compared to English, for the same text"
+abstract: >-
+  Token premiums for 204 languages on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama,
+  DeepSeek, Qwen and Mistral: tokens(language) / tokens(English) on the FLORES-200 devtest
+  sentences, following Petrov et al. (2023).
+authors:
+  - family-names: Moricz
+    given-names: Sara
+repository-code: "https://github.com/SaraMoricz/token-tax"
+url: "https://sara.moricz.se/token-tax/"
+license:
+  - CC-BY-SA-4.0
+  - MIT
+keywords:
+  - tokenizer
+  - tokenization
+  - large language models
+  - multilingual
+  - language equity
+  - FLORES-200
+references:
+  - type: conference-paper
+    title: "Language Model Tokenizers Introduce Unfairness Between Languages"
+    authors:
+      - family-names: Petrov
+        given-names: Aleksandar
+      - family-names: La Malfa
+        given-names: Emanuele
+      - family-names: Torr
+        given-names: Philip H. S.
+      - family-names: Bibi
+        given-names: Adel
+    collection-title: "Advances in Neural Information Processing Systems (NeurIPS 2023)"
+    year: 2023
+    url: "https://arxiv.org/abs/2305.15425"
+  - type: data
+    title: "FLORES-200"
+    authors:
+      - name: "NLLB Team"
+    year: 2022
+    url: "https://github.com/facebookresearch/flores/blob/main/flores200/README.md"

@@ -1,5 +1,7 @@
 # Token tax: How many more tokens a language needs, compared to English, for the same text
 
+[![The token tax on ChatGPT's tokenizer, each country coloured by its main language](assets/token-tax-globes.jpg)](https://sara.moricz.se/token-tax/)
+
 Swedish needs 35 % more tokens than English for the same text on ChatGPT, and Santali 1 273 % more.
 This repository measures that premium for 204 languages on the tokenizers behind ChatGPT, Gemini,
 Claude, Meta's Llama, DeepSeek, Qwen and Mistral. The interactive globe built on it is at
@@ -40,6 +42,18 @@ Languages](https://arxiv.org/abs/2305.15425) (NeurIPS 2023):
 | `data/country_population.json` | Population per country (World Bank SP.POP.TOTL, 2025), used to list a language's biggest countries first |
 | `data/counts/*.json` | Raw counts per counting script |
 
+### Columns of `data.csv`
+
+| Column | What it is |
+|---|---|
+| `language` | Language name in English, as in FLORES-200 |
+| `flores_code` | FLORES-200 code: ISO 639-3 language + ISO 15924 script, e.g. `swe_Latn` |
+| `script` | ISO 15924 script code, e.g. `Latn`, `Deva` |
+| `sentences` | Sentences counted (1,012 for every language) |
+| `characters` | Characters in the language's text |
+| `<tokenizer>_tokens` | Tokens for the whole text on that tokenizer; `tokenizers.csv` says which models use it |
+| `<tokenizer>_premium` | Tokens ÷ the same tokenizer's English tokens. 1.35 means 35 % more tokens than English: the token tax shown on the globe |
+
 Older tokenizers (GPT-4 2023, Gemma 3, Llama 3, Qwen 3) stay in the data next to their successors,
 so before/after comparisons are possible. `tokenizers.csv`'s `pill` column says which ones the web page
 shows; the rest (e.g. Gemini 4 Argon, Mistral) are in the data only.
@@ -73,6 +87,10 @@ Viking/Poro (Nordic), NorMistral (Norwegian) and Sarvam (Indian languages).
 
 ## Limits
 
+- A premium compares a language with English on the same tokenizer. To compare tokenizers with each
+  other, use the `_tokens` columns: Claude already needs 1.6 times o200k's tokens for English.
+- More tokens means a higher cost and less room in the context window, not necessarily worse answers;
+  what an answer is worth per token differs between models.
 - Each country on the globe is coloured by one main language, which simplifies multilingual countries.
 - Anthropic calls its count an estimate; repeated counts were identical. Both API counts include a fixed
   request overhead, measured and subtracted per model.
@@ -80,6 +98,12 @@ Viking/Poro (Nordic), NorMistral (Norwegian) and Sarvam (Indian languages).
   (a few languages via Spanish, French, Russian or Arabic; see
   [Meta's FLORES-200 README](https://github.com/facebookresearch/flores/blob/main/flores200/README.md)).
   Chat, code or other text may give other premiums.
+
+## Cite
+
+GitHub's **Cite this repository** button (right-hand side) gives the citation in APA and BibTeX, from
+`CITATION.cff`. Please also cite Petrov et al. (2023), whose method and FLORES-200 copy this builds on,
+and FLORES-200 itself (NLLB Team, 2022).
 
 ## Licence
 
