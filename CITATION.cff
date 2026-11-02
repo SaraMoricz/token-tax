@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 type: dataset
-title: "Token tax / token premiums for the 204 FLORES-200 languages"
+title: "Token tax: LLM token premiums for 200 languages relative to English (FLORES-200)"
 abstract: >-
-  Token premiums for 204 languages on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama,
+  Token premiums for the 200 languages of FLORES-200 (204 rows: a few languages in two scripts) on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama,
   DeepSeek, Qwen and Mistral: tokens(language) / tokens(English) on the FLORES-200 devtest
   sentences, following Petrov et al. (2023).
 authors:
