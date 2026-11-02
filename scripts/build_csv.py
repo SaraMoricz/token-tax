@@ -25,13 +25,13 @@ COLUMNS = [
 ]
 
 map_f, out_f, *count_files = sys.argv[1:]
-names = {r[" FLORES-200 code"].strip(): r["Language"].strip() for r in csv.DictReader(open(map_f))}
+names = {r[" FLORES-200 code"].strip(): r["Language"].strip() for r in csv.DictReader(open(map_f, encoding="utf-8"))}
 merged = {}
 for f in count_files:
     if not os.path.exists(f):
         print("skipping missing", f)
         continue
-    for code, vals in json.load(open(f)).items():
+    for code, vals in json.load(open(f, encoding="utf-8")).items():
         merged.setdefault(code, {}).update(vals)
 
 META = {"sentences", "chars", "chunks", "model", "overhead"}

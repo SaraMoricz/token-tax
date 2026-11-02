@@ -38,8 +38,6 @@ Languages](https://arxiv.org/abs/2305.15425) (NeurIPS 2023):
 |---|---|
 | `data/data.csv` | One row per language: `<tokenizer>_tokens` and `<tokenizer>_premium` per tokenizer |
 | `data/tokenizers.csv` | One row per tokenizer column: models, when introduced, current or not, exact source file and version |
-| `data/country_premiums.csv` | One row per country (main language, ISO codes, premiums), ready for a choropleth map |
-| `data/country_population.json` | Population per country (World Bank SP.POP.TOTL, 2025), used to list a language's biggest countries first |
 | `data/counts/*.json` | Raw counts per counting script |
 
 ### Columns of `data.csv`
@@ -91,7 +89,6 @@ Viking/Poro (Nordic), NorMistral (Norwegian) and Sarvam (Indian languages).
   other, use the `_tokens` columns: Claude already needs 1.6 times o200k's tokens for English.
 - More tokens means a higher cost and less room in the context window, not necessarily worse answers;
   what an answer is worth per token differs between models.
-- Each country on the globe is coloured by one main language, which simplifies multilingual countries.
 - Anthropic calls its count an estimate; repeated counts were identical. Both API counts include a fixed
   request overhead, measured and subtracted per model.
 - FLORES-200 is 842 English Wikinews, Wikijunior and Wikivoyage articles, professionally translated

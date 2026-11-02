@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Full pipeline: FLORES-200 devtest -> token counts per tokenizer -> data/data.csv
-# (+ data/country_premiums.csv). Needs Node 18+, Python 3.10+ and git; see README.md.
+# Full pipeline: FLORES-200 devtest -> token counts per tokenizer -> data/data.csv.
+# Needs Node 18+, Python 3.10+ and git; see README.md.
 # ANTHROPIC_API_KEY (optional) adds or refreshes the Claude column via Anthropic's free count_tokens endpoint.
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -38,5 +38,3 @@ fi
 
 python3 -I scripts/build_csv.py data/flores_language_map.csv data/data.csv \
   "$C/openai.json" "$C/gemini.json" "$C/more.json" "$C/claude.json" "$C/gemini_api.json"
-node scripts/country_csv.js data/data.csv data/country_language_map.json data/country_premiums.csv
-python3 -I scripts/country_population.py data/country_population.json 2025   # World Bank, for ordering countries by size
