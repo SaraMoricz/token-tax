@@ -9,6 +9,7 @@ abstract: >-
 authors:
   - family-names: Moricz
     given-names: Sara
+    orcid: "https://orcid.org/0009-0002-0309-0120"
 repository-code: "https://github.com/SaraMoricz/token-tax"
 url: "https://sara.moricz.se/token-tax/"
 license:
