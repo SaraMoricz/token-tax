@@ -1,5 +1,5 @@
 {
-  "title": "Token tax: how many more tokens a language needs, compared to English, for the same text",
+  "title": "Token tax / token premiums for the 204 FLORES-200 languages",
   "upload_type": "dataset",
   "description": "<p>Token premiums for 204 languages on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama, DeepSeek, Qwen and Mistral: tokens(language) ÷ tokens(English) for the same text, the FLORES-200 devtest sentences, following Petrov et al. (2023). Swedish needs 35 % more tokens than English on ChatGPT, Santali 1 273 % more.</p><p>The data (data/data.csv per language, data/country_premiums.csv per country, data/tokenizers.csv describing each tokenizer) and the scripts that reproduce it. The FLORES-200 text itself is not included; the scripts download it. Interactive globe: https://sara.moricz.se/token-tax/</p>",
   "creators": [
@@ -10,8 +10,12 @@
   ],
   "license": "cc-by-sa-4.0",
   "keywords": [
+    "token premium",
+    "tokenization premium",
+    "token tax",
     "tokenizer",
     "tokenization",
+    "tokenizer fairness",
     "large language models",
     "multilingual",
     "language equity",

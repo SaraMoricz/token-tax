@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 type: dataset
-title: "Token tax: how many more tokens a language needs, compared to English, for the same text"
+title: "Token tax / token premiums for the 204 FLORES-200 languages"
 abstract: >-
   Token premiums for 204 languages on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama,
   DeepSeek, Qwen and Mistral: tokens(language) / tokens(English) on the FLORES-200 devtest
@@ -16,8 +16,12 @@ license:
   - CC-BY-SA-4.0
   - MIT
 keywords:
+  - token premium
+  - tokenization premium
+  - token tax
   - tokenizer
   - tokenization
+  - tokenizer fairness
   - large language models
   - multilingual
   - language equity
