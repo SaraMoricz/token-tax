@@ -2,9 +2,9 @@
 
 [![The token tax on ChatGPT's tokenizer, each country coloured by its main language](assets/token-tax-globes.jpg)](https://sara.moricz.se/token-tax/)
 
-Hindi needs 57 % more tokens than English for the same text on ChatGPT. In other words, Hindi speakers:
+Hindi needs 57 % more tokens than English for the same text on ChatGPT. In other words, for Hindi speakers:
 
-- pay 57 % more per answer
+- each answer costs 57 % more
 - chat memory fills up 57 % faster
 - answers take about 57 % longer
 
