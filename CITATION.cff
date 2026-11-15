@@ -10,6 +10,13 @@ authors:
   - family-names: Moricz
     given-names: Sara
     orcid: "https://orcid.org/0009-0002-0309-0120"
+version: "1.0"
+date-released: 2026-11-15
+doi: 10.5281/zenodo.24238603
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24238604
+    description: "Version 1.0"
 repository-code: "https://github.com/SaraMoricz/token-tax"
 url: "https://sara.moricz.se/token-tax/"
 license:
