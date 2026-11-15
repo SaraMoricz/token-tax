@@ -1,5 +1,7 @@
 # Token tax: How many more tokens a language needs, compared to English, for the same text
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238603.svg)](https://doi.org/10.5281/zenodo.24238603)
+
 [![The token tax on ChatGPT's tokenizer, each country coloured by its main language](assets/token-tax-globes.jpg)](https://sara.moricz.se/token-tax/)
 
 Hindi needs 57 % more tokens than English for the same text on ChatGPT. In other words, for Hindi speakers:
@@ -90,6 +92,7 @@ and the new key becomes a column. Add a row to `data/tokenizers.csv` describing 
 
 ## Cite
 
+The dataset is archived on Zenodo: DOI [10.5281/zenodo.24238603](https://doi.org/10.5281/zenodo.24238603) (all versions; v1.0 is [10.5281/zenodo.24238604](https://doi.org/10.5281/zenodo.24238604)).
 GitHub's **Cite this repository** button (right-hand side) gives the citation in APA and BibTeX, from
 `CITATION.cff`. Please also cite Petrov et al. (2023), whose method and FLORES-200 copy this builds on,
 and FLORES-200 itself (NLLB Team, 2022).
