@@ -2,13 +2,17 @@
 
 [![The token tax on ChatGPT's tokenizer, each country coloured by its main language](assets/token-tax-globes.jpg)](https://sara.moricz.se/token-tax/)
 
-Swedish needs 35 % more tokens than English for the same text on ChatGPT, and Santali 1 273 % more.
-This repository measures that premium for 204 languages on the tokenizers behind ChatGPT, Gemini,
-Claude, Meta's Llama, DeepSeek, Qwen and Mistral. The interactive globe built on it is at
-https://sara.moricz.se/token-tax/.
+Hindi needs 57 % more tokens than English for the same text on ChatGPT. In other words, Hindi speakers:
 
-More tokens for the same text means a quota used up faster, a context window that holds less, and
-slower answers.
+- pay 57 % more per answer
+- chat memory fills up 57 % faster
+- answers take about 57 % longer
+
+The token tax for Standard Arabic is 38 % more, Spanish 32 % and Chinese (Simplified) 25 % more. The most taxed language is Santali, spoken in eastern India, Bangladesh and Nepal: it pays 1 273 % more! Check more languages and models on the interactive world map: [sara.moricz.se/token-tax](https://sara.moricz.se/token-tax/).
+
+## Why this dataset
+
+This repository measures the token tax for 204 languages on the tokenizers behind ChatGPT, Gemini, Claude, Meta's Llama, DeepSeek, Qwen and Mistral. Petrov et al. (2023) measured the token tax (but calls it the token premium) on the tokenizers of 2023. Most of the models people use today have new tokenizers since then: GPT-4o and GPT-5 (o200k), Gemini 3 and 4, Claude since Opus 4.7, Llama 4, Qwen 3.5. This dataset measures the premium again on those tokenizers, with the same method and text, so the numbers are current, comparable with Petrov et al. and reproducible.
 
 ## Method
 
@@ -19,7 +23,11 @@ Languages](https://arxiv.org/abs/2305.15425) (NeurIPS 2023):
 
 - **Text:** the FLORES-200 devtest split, 1,012 sentences translated into 204 languages, as published
   in [Petrov et al.'s repository](https://github.com/AleksandarPetrov/tokenization-fairness/tree/365c3f85bdb302fdcf6d389f5f1651e4ef041741/flores200_dataset/devtest)
-  (commit 365c3f8). `run_all.sh` downloads it; the text is not redistributed here.
+  (commit 365c3f8). `run_all.sh` downloads it; the text is not redistributed here. The 204 rows are
+  196 languages in 29 scripts, 8 of them in two scripts. English is the reference (premium 1.0).
+- **Tokenizers:** 13 columns: ChatGPT / Copilot (o200k), GPT-4 2023 (cl100k), Gemini 3.x Flash and
+  Gemini 4 Argon, Gemma 3 and Gemma 4, Claude, Llama 3 and Llama 4, DeepSeek V3/V4, Qwen 3 and
+  Qwen 3.5, Mistral Tekken. Counted 2026-10-22 to 2026-10-26.
 - **Counting:** each language is one text, its sentences joined by line breaks, without special tokens.
 - **Claude:** Anthropic does not publish its tokenizer, so Claude is counted through the free
   [`count_tokens`](https://platform.claude.com/docs/en/build-with-claude/token-counting) endpoint. Its
@@ -79,22 +87,6 @@ a key, the committed `data/counts/claude.json` or `gemini_api.json` is used. To 
 Open tokenizers: add an entry to the config at the end of `scripts/fetch_tokenizers.sh`
 (`hf_json` for a Hugging Face `tokenizer.json`, `tiktoken` with its `pat_str`, or `tekken`), rerun,
 and the new key becomes a column. Add a row to `data/tokenizers.csv` describing it.
-
-Not included yet: xAI's Grok (no public tokenizer), and national models such as GPT-SW3 (Swedish),
-Viking/Poro (Nordic), NorMistral (Norwegian) and Sarvam (Indian languages).
-
-## Limits
-
-- A premium compares a language with English on the same tokenizer. To compare tokenizers with each
-  other, use the `_tokens` columns: Claude already needs 1.6 times o200k's tokens for English.
-- More tokens means a higher cost and less room in the context window, not necessarily worse answers;
-  what an answer is worth per token differs between models.
-- Anthropic calls its count an estimate; repeated counts were identical. Both API counts include a fixed
-  request overhead, measured and subtracted per model.
-- FLORES-200 is 842 English Wikinews, Wikijunior and Wikivoyage articles, professionally translated
-  (a few languages via Spanish, French, Russian or Arabic; see
-  [Meta's FLORES-200 README](https://github.com/facebookresearch/flores/blob/main/flores200/README.md)).
-  Chat, code or other text may give other premiums.
 
 ## Cite
 
